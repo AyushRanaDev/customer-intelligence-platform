@@ -1,0 +1,1856 @@
+[
+  {
+    "record_id": "NOVA-000870",
+    "call_started_at": "2026-05-30T23:41:31",
+    "agent_id": "AG-114",
+    "region": "Mumbai",
+    "duration_sec": 548,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Account setup was the easiest I have seen, fully digital."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001087",
+    "call_started_at": "2026-07-08T15:47:30",
+    "agent_id": "AG-505",
+    "region": "Hyderabad",
+    "duration_sec": 147,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Chat support just sends canned replies and never resolves anything."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001325",
+    "call_started_at": "2026-08-02T03:47:15",
+    "agent_id": "AG-327",
+    "region": "Indore",
+    "duration_sec": 616,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Updated today and now checkout crashes, had to pay cash at the store. Fix this."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000899",
+    "call_started_at": "2026-07-08T15:57:44",
+    "agent_id": "AG-979",
+    "region": "Dubai",
+    "duration_sec": 549,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Snappy and smooth, one of the faster banking apps I use."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001342",
+    "call_started_at": "2026-08-17T23:25:43",
+    "agent_id": "AG-646",
+    "region": "Indore",
+    "duration_sec": 309,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Got an SMS claiming to be Nova asking me to verify my KYC on a weird link. Is this you?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001097",
+    "call_started_at": "2026-03-29T00:41:52",
+    "agent_id": "AG-305",
+    "region": "London",
+    "duration_sec": 377,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "App crashes every time I open the payment screen. Unusable."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001131",
+    "call_started_at": "2026-03-20T21:13:32",
+    "agent_id": "AG-234",
+    "region": "Hyderabad",
+    "duration_sec": 193,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Auto-pay for my rent silently failed and I got a late fee."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000909",
+    "call_started_at": "2026-04-20T19:53:27",
+    "agent_id": "AG-807",
+    "region": "Kolkata",
+    "duration_sec": 201,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Freezes on the transaction history page and I have to restart."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000948",
+    "call_started_at": "2026-05-19T19:40:17",
+    "agent_id": "AG-829",
+    "region": "London",
+    "duration_sec": 565,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Charged a convenience fee that was never disclosed upfront."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000995",
+    "call_started_at": "2026-08-11T09:22:24",
+    "agent_id": "AG-872",
+    "region": "Lucknow",
+    "duration_sec": 667,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Can I customise the home screen widgets?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001304",
+    "call_started_at": "2026-08-15T00:22:44",
+    "agent_id": "AG-257",
+    "region": "Kochi",
+    "duration_sec": 399,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Ever since the 4.2.0 update the app crashes the moment I hit pay. Cannot send money at all."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000920",
+    "call_started_at": "2026-06-14T12:04:13",
+    "agent_id": "AG-282",
+    "region": "Pune",
+    "duration_sec": 796,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Latest update drains my battery and heats up the phone."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001237",
+    "call_started_at": "2026-03-11T06:31:16",
+    "agent_id": "AG-158",
+    "region": "Lucknow",
+    "duration_sec": 431,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Chat team was patient and actually fixed my issue first try."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000929",
+    "call_started_at": "2026-06-23T11:14:11",
+    "agent_id": "AG-445",
+    "region": "Delhi",
+    "duration_sec": 261,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "No hidden charges, what you see is what you pay."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001246",
+    "call_started_at": "2026-05-11T13:09:17",
+    "agent_id": "AG-498",
+    "region": "Ahmedabad",
+    "duration_sec": 293,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "The rewards on groceries are actually worth it."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001403",
+    "call_started_at": "2026-05-07T02:55:06",
+    "agent_id": "AG-168",
+    "region": "Mumbai",
+    "duration_sec": 708,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "crashes"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001231",
+    "call_started_at": "2026-04-16T18:00:11",
+    "agent_id": "AG-156",
+    "region": "London",
+    "duration_sec": 323,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Add Apple Watch support for quick balance checks."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001228",
+    "call_started_at": "2026-08-10T23:15:21",
+    "agent_id": "AG-382",
+    "region": "Hyderabad",
+    "duration_sec": 152,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Charged a convenience fee that was never disclosed upfront."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000886",
+    "call_started_at": "2026-07-05T07:31:45",
+    "agent_id": "AG-597",
+    "region": "Pune",
+    "duration_sec": 730,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Instant card freeze feature saved me when I lost my wallet."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001245",
+    "call_started_at": "2026-05-12T07:37:03",
+    "agent_id": "AG-977",
+    "region": "Kolkata",
+    "duration_sec": 617,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Pichle mahine ka cashback ab tak credit nahi hua bhai."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001011",
+    "call_started_at": "2026-04-14T12:36:50",
+    "agent_id": "AG-768",
+    "region": "Singapore",
+    "duration_sec": 620,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "A spending analytics dashboard would be great."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001068",
+    "call_started_at": "2026-05-30T02:53:04",
+    "agent_id": "AG-113",
+    "region": "Delhi",
+    "duration_sec": 720,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001148",
+    "call_started_at": "2026-06-13T18:46:59",
+    "agent_id": "AG-893",
+    "region": "Kolkata",
+    "duration_sec": 439,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000903",
+    "call_started_at": "2026-04-29T16:04:57",
+    "agent_id": "AG-776",
+    "region": "Lucknow",
+    "duration_sec": 103,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "2FA codes arrive five minutes late so I keep getting locked out."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001149",
+    "call_started_at": "2026-03-14T12:04:28",
+    "agent_id": "AG-334",
+    "region": "Jaipur",
+    "duration_sec": 629,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Hidden forex markup on my international card spend, not transparent."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000919",
+    "call_started_at": "2026-07-15T23:24:19",
+    "agent_id": "AG-495",
+    "region": "Hyderabad",
+    "duration_sec": 109,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "My card gets declined at petrol pumps every single time."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000817",
+    "call_started_at": "2026-07-26T12:08:21",
+    "agent_id": "AG-909",
+    "region": "Delhi",
+    "duration_sec": 532,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Instant card freeze feature saved me when I lost my wallet."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001176",
+    "call_started_at": "2026-08-09T05:15:36",
+    "agent_id": "AG-426",
+    "region": "Bengaluru",
+    "duration_sec": 302,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Cannot increase my card limit, the option is greyed out."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001349",
+    "call_started_at": "2026-08-02T04:37:45",
+    "agent_id": "AG-741",
+    "region": "Lucknow",
+    "duration_sec": 720,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Someone is sending fake Nova texts saying my account is blocked, link looks dodgy."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001320",
+    "call_started_at": "2026-08-15T03:45:56",
+    "agent_id": "AG-188",
+    "region": "Ahmedabad",
+    "duration_sec": 483,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Updated today and now checkout crashes, had to pay cash at the store. Fix this."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001147",
+    "call_started_at": "2026-05-18T06:37:42",
+    "agent_id": "AG-179",
+    "region": "Pune",
+    "duration_sec": 624,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Document upload keeps failing at the last step during onboarding."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001250",
+    "call_started_at": "2026-04-02T07:52:41",
+    "agent_id": "AG-538",
+    "region": "Singapore",
+    "duration_sec": 323,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Can you integrate with Google Pay for tap to pay?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001275",
+    "call_started_at": "2026-06-11T04:22:29",
+    "agent_id": "AG-786",
+    "region": "Chennai",
+    "duration_sec": 138,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Zero forex markup is a genuine reason I switched to Nova."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001336",
+    "call_started_at": "2026-08-17T18:35:21",
+    "agent_id": "AG-316",
+    "region": "Lucknow",
+    "duration_sec": 650,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Someone is sending fake Nova texts saying my account is blocked, link looks dodgy."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001125",
+    "call_started_at": "2026-05-06T21:00:37",
+    "agent_id": "AG-660",
+    "region": "Ahmedabad",
+    "duration_sec": 553,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Can I open an account without Aadhaar?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000851",
+    "call_started_at": "2026-04-25T11:33:57",
+    "agent_id": "AG-161",
+    "region": "Bengaluru",
+    "duration_sec": 533,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Instant card freeze feature saved me when I lost my wallet."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001258",
+    "call_started_at": "2026-07-31T03:45:17",
+    "agent_id": "AG-118",
+    "region": "Chennai",
+    "duration_sec": 304,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Charged a convenience fee that was never disclosed upfront."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001364",
+    "call_started_at": "2026-08-16T04:11:20",
+    "agent_id": "AG-262",
+    "region": "Hyderabad",
+    "duration_sec": 727,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "The new redesign is gorgeous, finally a modern clean look. Well done."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001085",
+    "call_started_at": "2026-04-26T20:36:51",
+    "agent_id": "AG-737",
+    "region": "Lucknow",
+    "duration_sec": 712,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Love the real-time fraud alerts, caught a bad charge fast."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001286",
+    "call_started_at": "2026-08-05T06:56:46",
+    "agent_id": "AG-239",
+    "region": "Singapore",
+    "duration_sec": 791,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Paid for groceries, app crashed, got charged twice. This started after the update."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001200",
+    "call_started_at": "2026-07-06T01:41:25",
+    "agent_id": "AG-414",
+    "region": "Hyderabad",
+    "duration_sec": 120,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Clean interface, everything is where you expect it to be."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001327",
+    "call_started_at": "2026-08-17T01:13:21",
+    "agent_id": "AG-349",
+    "region": "Singapore",
+    "duration_sec": 814,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Paid for groceries, app crashed, got charged twice. This started after the update."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001213",
+    "call_started_at": "2026-06-08T19:22:46",
+    "agent_id": "AG-513",
+    "region": "Bengaluru",
+    "duration_sec": 518,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Does Nova support virtual cards for online shopping?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000880",
+    "call_started_at": "2026-03-28T08:03:14",
+    "agent_id": "AG-137",
+    "region": "Delhi",
+    "duration_sec": 624,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "How long does card delivery take to a metro city?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001151",
+    "call_started_at": "2026-03-19T02:43:42",
+    "agent_id": "AG-175",
+    "region": "Singapore",
+    "duration_sec": 213,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Would love a joint account feature for couples."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000841",
+    "call_started_at": "2026-05-31T08:48:41",
+    "agent_id": "AG-595",
+    "region": "Chennai",
+    "duration_sec": 281,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Sent money to the wrong contact and there is no way to raise a dispute in the app."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001352",
+    "call_started_at": "2026-07-27T23:39:36",
+    "agent_id": "AG-888",
+    "region": "London",
+    "duration_sec": 234,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Someone is sending fake Nova texts saying my account is blocked, link looks dodgy."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000908",
+    "call_started_at": "2026-08-16T19:42:17",
+    "agent_id": "AG-767",
+    "region": "Ahmedabad",
+    "duration_sec": 443,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Update ke baad app baar baar crash ho raha hai pay karte time."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001019",
+    "call_started_at": "2026-08-10T03:27:08",
+    "agent_id": "AG-447",
+    "region": "Kolkata",
+    "duration_sec": 757,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Pichle mahine ka cashback ab tak credit nahi hua bhai."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001014",
+    "call_started_at": "2026-07-28T00:15:36",
+    "agent_id": "AG-530",
+    "region": "Hyderabad",
+    "duration_sec": 405,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "2FA codes arrive five minutes late so I keep getting locked out."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001229",
+    "call_started_at": "2026-05-07T11:09:45",
+    "agent_id": "AG-746",
+    "region": "London",
+    "duration_sec": 746,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Update ke baad app baar baar crash ho raha hai pay karte time."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001351",
+    "call_started_at": "2026-07-31T23:19:02",
+    "agent_id": "AG-218",
+    "region": "Kochi",
+    "duration_sec": 662,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Almost fell for a phishing message that looked exactly like your alerts."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001333",
+    "call_started_at": "2026-08-03T22:18:27",
+    "agent_id": "AG-436",
+    "region": "Dubai",
+    "duration_sec": 361,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "4.2.0 is broken, every UPI payment crashes the app and then shows pending."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001002",
+    "call_started_at": "2026-08-18T00:37:39",
+    "agent_id": "AG-624",
+    "region": "Indore",
+    "duration_sec": 733,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Splitting bills with friends is smooth, love the request money feature."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000901",
+    "call_started_at": "2026-05-09T20:54:00",
+    "agent_id": "AG-338",
+    "region": "Chennai",
+    "duration_sec": 172,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Got transferred four times and had to repeat my issue each time."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001273",
+    "call_started_at": "2026-03-05T13:09:20",
+    "agent_id": "AG-262",
+    "region": "Mumbai",
+    "duration_sec": 168,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "The navigation is confusing, I can never find my statements."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000937",
+    "call_started_at": "2026-06-20T23:03:44",
+    "agent_id": "AG-962",
+    "region": "Chennai",
+    "duration_sec": 69,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Raised a ticket 20 days ago and still no response from support."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001026",
+    "call_started_at": "2026-06-17T13:21:27",
+    "agent_id": "AG-926",
+    "region": "Dubai",
+    "duration_sec": 432,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Bill payment shows success but the biller says they never received it."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001230",
+    "call_started_at": "2026-07-22T00:49:04",
+    "agent_id": "AG-676",
+    "region": "Mumbai",
+    "duration_sec": 700,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Does Nova support virtual cards for online shopping?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001090",
+    "call_started_at": "2026-05-25T01:06:50",
+    "agent_id": "AG-591",
+    "region": "Kolkata",
+    "duration_sec": 52,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Saw an unauthorised transaction on my account this morning."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001081",
+    "call_started_at": "2026-08-06T07:55:46",
+    "agent_id": "AG-243",
+    "region": "Bengaluru",
+    "duration_sec": 475,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Cannot increase my card limit, the option is greyed out."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001335",
+    "call_started_at": "2026-08-18T07:32:59",
+    "agent_id": "AG-413",
+    "region": "Ahmedabad",
+    "duration_sec": 361,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "App dies on the payment confirmation screen since the latest update. Android."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001268",
+    "call_started_at": "2026-03-27T16:17:55",
+    "agent_id": "AG-510",
+    "region": "Bengaluru",
+    "duration_sec": 349,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Update ke baad app baar baar crash ho raha hai pay karte time."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000864",
+    "call_started_at": "2026-08-12T06:06:24",
+    "agent_id": "AG-560",
+    "region": "Chennai",
+    "duration_sec": 361,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Is there a daily limit on UPI payments here?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001255",
+    "call_started_at": "2026-03-24T06:33:07",
+    "agent_id": "AG-935",
+    "region": "Indore",
+    "duration_sec": 251,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001114",
+    "call_started_at": "2026-04-22T14:18:11",
+    "agent_id": "AG-536",
+    "region": "Kochi",
+    "duration_sec": 752,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Support closed my ticket without solving the problem."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001345",
+    "call_started_at": "2026-07-31T11:46:16",
+    "agent_id": "AG-978",
+    "region": "Singapore",
+    "duration_sec": 383,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Fake Nova KYC link circulating on WhatsApp, please warn your users."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001007",
+    "call_started_at": "2026-08-12T10:10:36",
+    "agent_id": "AG-516",
+    "region": "Indore",
+    "duration_sec": 295,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "A spending analytics dashboard would be great."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001261",
+    "call_started_at": "2026-08-16T08:34:14",
+    "agent_id": "AG-815",
+    "region": "Kochi",
+    "duration_sec": 270,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "UPI transaction stuck on 'processing' forever, had to force close."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001251",
+    "call_started_at": "2026-05-22T02:18:48",
+    "agent_id": "AG-138",
+    "region": "Lucknow",
+    "duration_sec": 647,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Account setup was the easiest I have seen, fully digital."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000821",
+    "call_started_at": "2026-07-10T16:16:49",
+    "agent_id": "AG-678",
+    "region": "Pune",
+    "duration_sec": 481,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Document upload keeps failing at the last step during onboarding."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001045",
+    "call_started_at": "2026-04-08T06:22:23",
+    "agent_id": "AG-551",
+    "region": "Lucknow",
+    "duration_sec": 125,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Would love a joint account feature for couples."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000982",
+    "call_started_at": "2026-08-07T12:11:38",
+    "agent_id": "AG-765",
+    "region": "Delhi",
+    "duration_sec": 411,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "How do I redeem my reward points?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000840",
+    "call_started_at": "2026-07-01T22:11:01",
+    "agent_id": "AG-812",
+    "region": "Kochi",
+    "duration_sec": 434,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Can I have both a virtual and physical card?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001135",
+    "call_started_at": "2026-05-17T07:15:23",
+    "agent_id": "AG-310",
+    "region": "Ahmedabad",
+    "duration_sec": 95,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Video KYC agent never connected after three scheduled attempts."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001271",
+    "call_started_at": "2026-04-17T14:28:14",
+    "agent_id": "AG-577",
+    "region": "Hyderabad",
+    "duration_sec": 781,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Please add support for recurring SIP investments."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001384",
+    "call_started_at": "2026-07-20T04:42:25",
+    "agent_id": "AG-476",
+    "region": "Kolkata",
+    "duration_sec": 403,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "New interface looks pretty but it takes twice as long to do anything now."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000828",
+    "call_started_at": "2026-08-10T16:51:04",
+    "agent_id": "AG-641",
+    "region": "Ahmedabad",
+    "duration_sec": 209,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Too many taps to do a simple transfer now."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000875",
+    "call_started_at": "2026-07-08T15:46:17",
+    "agent_id": "AG-790",
+    "region": "Bengaluru",
+    "duration_sec": 256,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "My card gets declined at petrol pumps every single time."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001395",
+    "call_started_at": "2026-08-01T05:04:51",
+    "agent_id": "AG-340",
+    "region": "Chennai",
+    "duration_sec": 125,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "money gone"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001025",
+    "call_started_at": "2026-04-26T06:18:49",
+    "agent_id": "AG-396",
+    "region": "Pune",
+    "duration_sec": 582,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000926",
+    "call_started_at": "2026-05-05T08:19:20",
+    "agent_id": "AG-502",
+    "region": "London",
+    "duration_sec": 402,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "How long does an IMPS transfer usually take on Nova?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001243",
+    "call_started_at": "2026-05-08T08:26:42",
+    "agent_id": "AG-773",
+    "region": "Kochi",
+    "duration_sec": 490,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Chat team was patient and actually fixed my issue first try."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000902",
+    "call_started_at": "2026-03-05T01:45:47",
+    "agent_id": "AG-438",
+    "region": "Dubai",
+    "duration_sec": 816,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "UPI transaction stuck on 'processing' forever, had to force close."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000954",
+    "call_started_at": "2026-04-23T07:51:04",
+    "agent_id": "AG-863",
+    "region": "Delhi",
+    "duration_sec": 271,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "The reward offer disappeared before it was supposed to expire."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001012",
+    "call_started_at": "2026-05-14T02:33:47",
+    "agent_id": "AG-904",
+    "region": "London",
+    "duration_sec": 119,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Would love a joint account feature for couples."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001314",
+    "call_started_at": "2026-08-11T09:58:45",
+    "agent_id": "AG-224",
+    "region": "Chennai",
+    "duration_sec": 450,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Ever since the 4.2.0 update the app crashes the moment I hit pay. Cannot send money at all."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000930",
+    "call_started_at": "2026-06-06T04:56:00",
+    "agent_id": "AG-348",
+    "region": "Mumbai",
+    "duration_sec": 898,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Support sorted my refund in under an hour, really helpful agent."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001312",
+    "call_started_at": "2026-08-15T18:50:39",
+    "agent_id": "AG-692",
+    "region": "Singapore",
+    "duration_sec": 506,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "4.2.0 is broken, every UPI payment crashes the app and then shows pending."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001058",
+    "call_started_at": "2026-04-01T01:32:51",
+    "agent_id": "AG-688",
+    "region": "Jaipur",
+    "duration_sec": 321,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Charged a convenience fee that was never disclosed upfront."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001205",
+    "call_started_at": "2026-03-20T14:34:39",
+    "agent_id": "AG-117",
+    "region": "Singapore",
+    "duration_sec": 583,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Metal card feels premium and works everywhere."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000913",
+    "call_started_at": "2026-07-04T15:15:48",
+    "agent_id": "AG-329",
+    "region": "Pune",
+    "duration_sec": 93,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "The navigation is confusing, I can never find my statements."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001357",
+    "call_started_at": "2026-08-07T14:26:53",
+    "agent_id": "AG-530",
+    "region": "Kochi",
+    "duration_sec": 176,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Loving the refreshed UI after the July update, so much easier on the eyes."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001281",
+    "call_started_at": "2026-08-08T23:52:56",
+    "agent_id": "AG-689",
+    "region": "Pune",
+    "duration_sec": 730,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Ever since the 4.2.0 update the app crashes the moment I hit pay. Cannot send money at all."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001204",
+    "call_started_at": "2026-05-04T14:43:21",
+    "agent_id": "AG-355",
+    "region": "Indore",
+    "duration_sec": 206,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Got transferred four times and had to repeat my issue each time."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001313",
+    "call_started_at": "2026-08-13T09:19:29",
+    "agent_id": "AG-878",
+    "region": "Ahmedabad",
+    "duration_sec": 629,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "App dies on the payment confirmation screen since the latest update. Android."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000822",
+    "call_started_at": "2026-04-02T00:23:28",
+    "agent_id": "AG-162",
+    "region": "Dubai",
+    "duration_sec": 752,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Is there an annual fee on the premium plan?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001134",
+    "call_started_at": "2026-05-29T18:15:19",
+    "agent_id": "AG-981",
+    "region": "Pune",
+    "duration_sec": 535,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Font is tiny and there is no dark mode option."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001178",
+    "call_started_at": "2026-04-12T02:04:03",
+    "agent_id": "AG-434",
+    "region": "Kochi",
+    "duration_sec": 353,
+    "disposition": "follow_up",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Physical card has not arrived after 5 days of 'shipped'."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000928",
+    "call_started_at": "2026-03-25T14:11:45",
+    "agent_id": "AG-393",
+    "region": "Kochi",
+    "duration_sec": 690,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Can you integrate with Google Pay for tap to pay?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001220",
+    "call_started_at": "2026-08-08T22:16:59",
+    "agent_id": "AG-444",
+    "region": "Kochi",
+    "duration_sec": 528,
+    "disposition": "escalated",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Can I have both a virtual and physical card?"
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000895",
+    "call_started_at": "2026-05-01T20:28:51",
+    "agent_id": "AG-138",
+    "region": "Mumbai",
+    "duration_sec": 295,
+    "disposition": "resolved",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "Add Apple Watch support for quick balance checks."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000893",
+    "call_started_at": "2026-03-23T11:03:46",
+    "agent_id": "AG-409",
+    "region": "Ahmedabad",
+    "duration_sec": 329,
+    "disposition": "dropped",
+    "transcript": [
+      {
+        "speaker": "customer",
+        "utterance": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "speaker": "agent",
+        "utterance": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  }
+]

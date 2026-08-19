@@ -1,0 +1,109 @@
+{
+  "dataset": "private",
+  "product": "Nova (fictional consumer digital banking + payments app)",
+  "as_of": "2026-08-19",
+  "recent_window_weeks": 3,
+  "total_records": 607,
+  "stable_join_key": "record_id (present in every file of every source, both sets)",
+  "schema_note": "Private files reuse the 5 public source shapes but RENAME/ADD some fields, and add one source shape absent from the public set: call_center_transcripts.json (nested 'transcript' array). Field renames: app_reviews body->feedback_body, submitted_at->review_date, os_version->device_os, app_build->build, store->marketplace, +resolved_flag; support_tickets customer_id->requester_id, tags->labels, messages[].from->sender, messages[].text->body, +sla_breached; surveys survey_type->type, verbatim->comment, +channel; social network->platform, content->post_text, likes->reach; email from_domain->sender_domain, message->email_body, +resolved_flag.",
+  "theme_distribution": {
+    "app_performance": 114,
+    "ui_ux": 84,
+    "security_fraud": 67,
+    "customer_support": 55,
+    "feature_request": 54,
+    "card_issues": 48,
+    "onboarding_kyc": 46,
+    "rewards_cashback": 46,
+    "payments_transactions": 44,
+    "fees_pricing": 42,
+    "other": 7
+  },
+  "sentiment_distribution": {
+    "neutral": 137,
+    "negative": 357,
+    "positive": 113
+  },
+  "source_record_counts": {
+    "email": 48,
+    "support_ticket": 107,
+    "social": 124,
+    "app_review": 155,
+    "call_center": 103,
+    "survey": 70
+  },
+  "planted_signals": {
+    "primary_emerging_issue": {
+      "id": "emerging_payment_crash_v420",
+      "summary": "App crashes on the payment/confirm screen after the v4.2.0 release (2026-08-01).",
+      "theme": "app_performance",
+      "record_count": 55,
+      "time_window": "2026-08-01 to 2026-08-18",
+      "app_version": "4.2.0",
+      "by_source": {
+        "support_ticket": 15,
+        "app_review": 10,
+        "social": 15,
+        "call_center": 11,
+        "email": 4
+      },
+      "structured_platform_in_reviews": {
+        "iOS": 3,
+        "Android": 7
+      },
+      "note": "Version 4.2.0 and Android are stated structurally only in app_reviews (build/device_os). In social, tickets, email and CALL-CENTRE records the same crash evidence is present in TEXT ONLY. A team that ignores the unseen call_center source or only reads structured columns will under-count this signal."
+    },
+    "secondary_emerging_issue": {
+      "id": "emerging_phishing_security",
+      "summary": "Phishing wave: fake Nova SMS/calls requesting KYC verification / OTP (from 2026-07-25).",
+      "theme": "security_fraud",
+      "record_count": 18,
+      "note": "External fraud, not an app bug. Good solutions separate it from product defects."
+    },
+    "conflicting_opinion_topic": {
+      "id": "conflict_ui_redesign",
+      "summary": "July UI redesign (2026-07-10) splits users: praised as modern vs. wanted-old-layout-back.",
+      "theme": "ui_ux",
+      "record_count": 34,
+      "note": "Tests representation of conflicting perspectives on the same change."
+    },
+    "robustness_cases": {
+      "multilingual": "Hindi, Hinglish and Tamil present; must not be dropped or mislabeled.",
+      "noise_spam": "Gibberish, emoji-only, promo/spam present; filter or down-weight.",
+      "edge_cases": "One-word and long mixed-sentiment records present.",
+      "schema_heterogeneity": "5 differently shaped sources + 1 unseen source + renamed fields. Normalising all of these into one view is itself a graded capability."
+    }
+  },
+  "expected_top_recommendations": [
+    "Hotfix the v4.2.0 payment-screen crash, prioritising Android; consider forced update or rollback.",
+    "Issue a proactive fraud/phishing advisory and tighten official-communication verification.",
+    "Revisit the July UI redesign: offer a classic-layout toggle or fix the navigation regressions.",
+    "Clear the cashback-not-credited and KYC-delay backlogs and close the support-response-time gap."
+  ],
+  "probe_questions_hidden": [
+    {
+      "q": "What is the single most urgent emerging issue in the last 3 weeks, and the likely cause?",
+      "a": "Payment/confirm-screen crashes caused by the v4.2.0 release; concentrated on Android."
+    },
+    {
+      "q": "Which app version and platform are most associated with the crash spike?",
+      "a": "Version 4.2.0; predominantly Android. Structured evidence is in app_reviews; other sources state it in text."
+    },
+    {
+      "q": "How many distinct feedback sources did you ingest, and did you include the call-centre transcripts?",
+      "a": "Six sources in the private set. Missing call_center transcripts means missing part of the crash + phishing evidence."
+    },
+    {
+      "q": "Is there a security/fraud signal distinct from product bugs? Describe it.",
+      "a": "Yes: a phishing wave using fake Nova SMS/calls requesting KYC verification / OTP from late July."
+    },
+    {
+      "q": "Name a recent change users disagree about, with both sides.",
+      "a": "The July UI redesign: praised as modern/clean vs. criticised for moving features and slowing tasks."
+    },
+    {
+      "q": "Give the 3 highest-priority actions for this week.",
+      "a": "See expected_top_recommendations (crash hotfix, phishing advisory, UI redesign fix)."
+    }
+  ]
+}

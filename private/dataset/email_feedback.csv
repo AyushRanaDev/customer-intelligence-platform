@@ -1,0 +1,49 @@
+record_id,received_at,sender_domain,subject,email_body,region,resolved_flag
+NOVA-000888,2026-08-17T07:51:10,rediffmail.com,Is there a daily limit on UPI payments here?,Is there a daily limit on UPI payments here?,Ahmedabad,True
+NOVA-001353,2026-08-01T08:47:04,gmail.com,"Fake Nova KYC link circulating on WhatsApp, plea","Fake Nova KYC link circulating on WhatsApp, please warn your users.",Delhi,False
+NOVA-001167,2026-07-26T08:05:02,outlook.com,Every second transfer fails and then succeeds on,"Every second transfer fails and then succeeds on retry, so annoying.",Bengaluru,True
+NOVA-001137,2026-04-24T16:18:27,gmail.com,The reward offer disappeared before it was suppo,The reward offer disappeared before it was supposed to expire.,Hyderabad,True
+NOVA-000999,2026-05-24T01:11:53,yahoo.com,Raised a ticket 10 days ago and still no respons,Raised a ticket 10 days ago and still no response from support.,London,False
+NOVA-000853,2026-03-26T13:56:45,hotmail.com,Font is tiny and there is no dark mode option,Font is tiny and there is no dark mode option.,Mumbai,True
+NOVA-001037,2026-04-11T21:40:35,hotmail.com,Charged a convenience fee that was never disclos,Charged a convenience fee that was never disclosed upfront.,Indore,True
+NOVA-001225,2026-08-18T01:54:09,gmail.com,Payment failed but the amount got debited,Payment failed but the amount got debited. No refund even after 8 days.,Delhi,False
+NOVA-001129,2026-08-08T16:17:47,yahoo.com,Chat team was patient and actually fixed my issu,Chat team was patient and actually fixed my issue first try.,Mumbai,False
+NOVA-001398,2026-07-31T13:53:36,rediffmail.com,crashes,crashes,Singapore,True
+NOVA-001316,2026-08-14T20:27:05,gmail.com,"Updated today and now checkout crashes, had to p","Updated today and now checkout crashes, had to pay cash at the store. Fix this.",Singapore,False
+NOVA-001375,2026-08-03T04:45:44,gmail.com,"Hate the new redesign, please bring back the old","Hate the new redesign, please bring back the old layout. Everything moved.",Ahmedabad,False
+NOVA-001113,2026-07-27T10:22:59,yahoo.com,Document upload keeps failing at the last step d,Document upload keeps failing at the last step during onboarding.,Ahmedabad,True
+NOVA-001000,2026-04-16T17:17:02,yahoo.com,Where did the rewards tab move to?,Where did the rewards tab move to?,Kochi,False
+NOVA-001235,2026-03-24T10:25:25,proton.me,Is there a way to escalate a ticket?,Is there a way to escalate a ticket?,Bengaluru,True
+NOVA-000974,2026-03-31T14:32:42,rediffmail.com,Raised a ticket 5 days ago and still no response,Raised a ticket 5 days ago and still no response from support.,Hyderabad,True
+NOVA-001082,2026-07-11T00:47:55,gmail.com,The reward offer disappeared before it was suppo,The reward offer disappeared before it was supposed to expire.,Kochi,True
+NOVA-001099,2026-06-02T22:53:00,gmail.com,Every second transfer fails and then succeeds on,"Every second transfer fails and then succeeds on retry, so annoying.",Singapore,True
+NOVA-001138,2026-07-11T03:06:51,rediffmail.com,"Onboarding took five minutes, KYC approved same ","Onboarding took five minutes, KYC approved same day. Impressive.",Jaipur,False
+NOVA-001315,2026-08-04T19:00:05,outlook.com,App dies on the payment confirmation screen sinc,App dies on the payment confirmation screen since the latest update. Android.,Ahmedabad,True
+NOVA-001193,2026-08-06T01:08:24,proton.me,How do I redeem my reward points?,How do I redeem my reward points?,Dubai,False
+NOVA-001141,2026-05-02T18:45:48,yahoo.com,"Cashback credited instantly, better than my old ","Cashback credited instantly, better than my old bank.",Hyderabad,True
+NOVA-001145,2026-07-05T10:14:04,proton.me,Document upload keeps failing at the last step d,Document upload keeps failing at the last step during onboarding.,Delhi,True
+NOVA-001104,2026-03-09T19:05:54,proton.me,"Runs great even on my old phone, no complaints o","Runs great even on my old phone, no complaints on speed.",Hyderabad,False
+NOVA-000932,2026-06-22T11:07:35,yahoo.com,Does the app work on Android 11 still?,Does the app work on Android 11 still?,Kolkata,False
+NOVA-001102,2026-07-01T23:55:10,yahoo.com,A spending analytics dashboard would be great,A spending analytics dashboard would be great.,Jaipur,False
+NOVA-001212,2026-08-15T23:28:50,proton.me,What documents do I need for full KYC?,What documents do I need for full KYC?,Indore,False
+NOVA-001348,2026-08-05T12:54:14,hotmail.com,Someone is sending fake Nova texts saying my acc,"Someone is sending fake Nova texts saying my account is blocked, link looks dodgy.",Lucknow,True
+NOVA-001175,2026-08-15T04:33:15,yahoo.com,Freezes on the transaction history page and I ha,Freezes on the transaction history page and I have to restart.,Dubai,True
+NOVA-001343,2026-08-03T12:19:25,yahoo.com,"Fake Nova KYC link circulating on WhatsApp, plea","Fake Nova KYC link circulating on WhatsApp, please warn your users.",Lucknow,True
+NOVA-001119,2026-06-09T18:48:06,hotmail.com,Video KYC agent never connected after three sche,Video KYC agent never connected after three scheduled attempts.,London,False
+NOVA-001346,2026-08-11T11:21:07,yahoo.com,"Fake Nova KYC link circulating on WhatsApp, plea","Fake Nova KYC link circulating on WhatsApp, please warn your users.",Mumbai,True
+NOVA-000900,2026-03-23T14:40:06,proton.me,Latest update drains my battery and heats up the,Latest update drains my battery and heats up the phone.,London,True
+NOVA-001379,2026-08-05T14:40:43,gmail.com,"Hate the new redesign, please bring back the old","Hate the new redesign, please bring back the old layout. Everything moved.",Singapore,False
+NOVA-001083,2026-04-04T09:16:53,outlook.com,Saw an unauthorised transaction on my account th,Saw an unauthorised transaction on my account this morning.,Kochi,False
+NOVA-001221,2026-04-13T14:28:04,hotmail.com,"Support sorted my refund in under an hour, reall","Support sorted my refund in under an hour, really helpful agent.",Mumbai,True
+NOVA-000952,2026-05-02T22:52:37,outlook.com,Saw an unauthorised transaction on my account th,Saw an unauthorised transaction on my account this morning.,London,True
+NOVA-000867,2026-05-13T08:18:26,yahoo.com,The rewards on groceries are actually worth it,The rewards on groceries are actually worth it.,Kolkata,True
+NOVA-001103,2026-04-27T01:47:59,rediffmail.com,Signup rejected my valid PAN twice with no expla,Signup rejected my valid PAN twice with no explanation.,Jaipur,False
+NOVA-001127,2026-07-23T11:47:16,gmail.com,How long does card delivery take to a metro city,How long does card delivery take to a metro city?,Kochi,False
+NOVA-000860,2026-07-03T13:27:24,gmail.com,When does monthly cashback usually get credited?,When does monthly cashback usually get credited?,Kolkata,False
+NOVA-001394,2026-03-20T10:47:47,rediffmail.com,🙂,🙂,Hyderabad,True
+NOVA-001187,2026-04-13T21:53:30,gmail.com,How do I redeem my reward points?,How do I redeem my reward points?,Mumbai,False
+NOVA-000960,2026-06-25T21:20:41,gmail.com,"Clean interface, everything is where you expect ","Clean interface, everything is where you expect it to be.",Lucknow,True
+NOVA-000939,2026-04-07T22:24:14,rediffmail.com,"No hidden charges, what you see is what you pay","No hidden charges, what you see is what you pay.",Delhi,False
+NOVA-001326,2026-08-13T08:01:04,gmail.com,"Paid for groceries, app crashed, got charged twi","Paid for groceries, app crashed, got charged twice. This started after the update.",Singapore,True
+NOVA-000854,2026-07-19T20:12:20,yahoo.com,Latest update drains my battery and heats up the,Latest update drains my battery and heats up the phone.,London,False
+NOVA-001334,2026-08-17T04:23:55,gmail.com,Payment screen force closes after update to 4,"Payment screen force closes after update to 4.2.0. Money stuck, super frustrated.",Lucknow,True

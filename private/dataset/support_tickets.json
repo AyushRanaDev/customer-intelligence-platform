@@ -1,0 +1,2784 @@
+[
+  {
+    "record_id": "NOVA-000973",
+    "subject": "Would love a joint account feature for couples",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-29T18:15:43",
+    "requester_id": "CUST-47498",
+    "region": "Ahmedabad",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-29T18:15:43",
+        "body": "Would love a joint account feature for couples."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-29T19:46:43",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001321",
+    "subject": "Ever since the 4",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-03T05:03:48",
+    "requester_id": "",
+    "region": "London",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-03T05:03:48",
+        "body": "Ever since the 4.2.0 update the app crashes the moment I hit pay. Cannot send money at all."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-03T09:52:48",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000849",
+    "subject": "Support closed my ticket without solving the pro",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-17T15:53:22",
+    "requester_id": "CUST-66872",
+    "region": "Ahmedabad",
+    "labels": [
+      "customer_support"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-17T15:53:22",
+        "body": "Support closed my ticket without solving the problem."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-17T16:35:22",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000829",
+    "subject": "Saw an unauthorised transaction on my account th",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-13T11:19:14",
+    "requester_id": "CUST-75536",
+    "region": "Bengaluru",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-13T11:19:14",
+        "body": "Saw an unauthorised transaction on my account this morning."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-13T11:30:14",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001296",
+    "subject": "App dies on the payment confirmation screen sinc",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-12T12:01:02",
+    "requester_id": "",
+    "region": "Delhi",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-12T12:01:02",
+        "body": "App dies on the payment confirmation screen since the latest update. Android."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-12T15:24:02",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001224",
+    "subject": "Latest update drains my battery and heats up the",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-14T23:55:08",
+    "requester_id": "CUST-89909",
+    "region": "Pune",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-14T23:55:08",
+        "body": "Latest update drains my battery and heats up the phone."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-15T02:10:08",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000983",
+    "subject": "Raised a ticket 2 days ago and still no response",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-15T20:52:14",
+    "requester_id": "CUST-35712",
+    "region": "Singapore",
+    "labels": [
+      "customer_support"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-15T20:52:14",
+        "body": "Raised a ticket 2 days ago and still no response from support."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-15T21:13:14",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001276",
+    "subject": "Love how simple it is to check my balance at a g",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-18T14:48:44",
+    "requester_id": "CUST-86969",
+    "region": "Indore",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-18T14:48:44",
+        "body": "Love how simple it is to check my balance at a glance."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-18T16:50:44",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000941",
+    "subject": "Sent money to the wrong contact and there is no ",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-24T06:26:18",
+    "requester_id": "CUST-11275",
+    "region": "Bengaluru",
+    "labels": [
+      "payments_transactions"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-24T06:26:18",
+        "body": "Sent money to the wrong contact and there is no way to raise a dispute in the app."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-24T10:48:18",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000881",
+    "subject": "Latest update drains my battery and heats up the",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-20T10:25:58",
+    "requester_id": "",
+    "region": "Ahmedabad",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-20T10:25:58",
+        "body": "Latest update drains my battery and heats up the phone."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-20T12:27:58",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001111",
+    "subject": "Support sorted my refund in under an hour, reall",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-13T14:46:43",
+    "requester_id": "CUST-20552",
+    "region": "Lucknow",
+    "labels": [
+      "customer_support"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-13T14:46:43",
+        "body": "Support sorted my refund in under an hour, really helpful agent."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-13T17:27:43",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001009",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-11T08:08:17",
+    "requester_id": "CUST-63729",
+    "region": "Ahmedabad",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-11T08:08:17",
+        "body": "Cashback from last month still not credited to my account."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-11T09:06:17",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001300",
+    "subject": "Ever since the 4",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-06T04:45:46",
+    "requester_id": "CUST-27284",
+    "region": "Indore",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-06T04:45:46",
+        "body": "Ever since the 4.2.0 update the app crashes the moment I hit pay. Cannot send money at all."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-06T08:35:46",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001006",
+    "subject": "Would love a joint account feature for couples",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-09T06:50:14",
+    "requester_id": "",
+    "region": "Singapore",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-09T06:50:14",
+        "body": "Would love a joint account feature for couples."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-09T09:21:14",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000914",
+    "subject": "Does Nova support virtual cards for online shopp",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-18T06:56:07",
+    "requester_id": "CUST-46842",
+    "region": "Hyderabad",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-18T06:56:07",
+        "body": "Does Nova support virtual cards for online shopping?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-18T09:57:07",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001291",
+    "subject": "Paid for groceries, app crashed, got charged twi",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-05T12:44:39",
+    "requester_id": "CUST-45750",
+    "region": "Jaipur",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-05T12:44:39",
+        "body": "Paid for groceries, app crashed, got charged twice. This started after the update."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-05T14:59:39",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001372",
+    "subject": "The July UI change buried the features I use dai",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-24T22:03:57",
+    "requester_id": "",
+    "region": "Kochi",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-24T22:03:57",
+        "body": "The July UI change buried the features I use daily, worse than before."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-25T00:21:57",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000977",
+    "subject": "App crashes every time I open the payment screen",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-13T19:35:08",
+    "requester_id": "CUST-39362",
+    "region": "Jaipur",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-13T19:35:08",
+        "body": "App crashes every time I open the payment screen. Unusable."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-13T20:07:08",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001305",
+    "subject": "Ever since the 4",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-12T19:31:12",
+    "requester_id": "CUST-30005",
+    "region": "Hyderabad",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-12T19:31:12",
+        "body": "Ever since the 4.2.0 update the app crashes the moment I hit pay. Cannot send money at all."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-12T22:41:12",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001160",
+    "subject": "buy cheap followers dm me",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-17T08:21:21",
+    "requester_id": "CUST-50629",
+    "region": "Delhi",
+    "labels": [
+      "other"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-17T08:21:21",
+        "body": "buy cheap followers dm me"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-17T10:17:21",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001249",
+    "subject": "Account setup was the easiest I have seen, fully",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-06T21:01:12",
+    "requester_id": "CUST-37060",
+    "region": "Ahmedabad",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-06T21:01:12",
+        "body": "Account setup was the easiest I have seen, fully digital."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-06T22:00:12",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001071",
+    "subject": "UPI transfers are instant and I have never had o",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-18T21:26:09",
+    "requester_id": "CUST-20652",
+    "region": "Kochi",
+    "labels": [
+      "payments_transactions"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-18T21:26:09",
+        "body": "UPI transfers are instant and I have never had one fail. Solid."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-18T23:34:09",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001380",
+    "subject": "New interface looks pretty but it takes twice as",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-06T17:48:11",
+    "requester_id": "CUST-70645",
+    "region": "Jaipur",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-06T17:48:11",
+        "body": "New interface looks pretty but it takes twice as long to do anything now."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-06T22:27:11",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001192",
+    "subject": "Instant card freeze feature saved me when I lost",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-10T15:17:52",
+    "requester_id": "CUST-92643",
+    "region": "Lucknow",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-10T15:17:52",
+        "body": "Instant card freeze feature saved me when I lost my wallet."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-10T19:44:52",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001074",
+    "subject": "Cannot increase my card limit, the option is gre",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-03T00:58:38",
+    "requester_id": "",
+    "region": "Mumbai",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-03T00:58:38",
+        "body": "Cannot increase my card limit, the option is greyed out."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-03T04:20:38",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001069",
+    "subject": "Love how simple it is to check my balance at a g",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-18T11:33:42",
+    "requester_id": "CUST-10422",
+    "region": "Kochi",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-18T11:33:42",
+        "body": "Love how simple it is to check my balance at a glance."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-18T16:08:42",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001287",
+    "subject": "App dies on the payment confirmation screen sinc",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-15T14:04:25",
+    "requester_id": "CUST-40005",
+    "region": "Singapore",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-15T14:04:25",
+        "body": "App dies on the payment confirmation screen since the latest update. Android."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-15T14:40:25",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001260",
+    "subject": "👍👍👍",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-01T01:42:15",
+    "requester_id": "",
+    "region": "Pune",
+    "labels": [
+      "other"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-01T01:42:15",
+        "body": "👍👍👍"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-01T05:53:15",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001257",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-17T07:42:03",
+    "requester_id": "CUST-74456",
+    "region": "London",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-17T07:42:03",
+        "body": "Cashback from last month still not credited to my account."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-17T08:40:03",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001161",
+    "subject": "Runs great even on my old phone, no complaints o",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-24T19:21:44",
+    "requester_id": "",
+    "region": "Mumbai",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-24T19:21:44",
+        "body": "Runs great even on my old phone, no complaints on speed."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-24T20:36:44",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001077",
+    "subject": "Instant card freeze feature saved me when I lost",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-10T23:03:40",
+    "requester_id": "CUST-57039",
+    "region": "Indore",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-10T23:03:40",
+        "body": "Instant card freeze feature saved me when I lost my wallet."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-11T01:07:40",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001248",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-24T22:25:00",
+    "requester_id": "",
+    "region": "Chennai",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-24T22:25:00",
+        "body": "Points I earned vanished after the update."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-25T03:06:00",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001029",
+    "subject": "Virtual card was ready instantly, used it the sa",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-12T19:22:26",
+    "requester_id": "CUST-48288",
+    "region": "Dubai",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-12T19:22:26",
+        "body": "Virtual card was ready instantly, used it the same minute."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-12T20:56:26",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001073",
+    "subject": "Chat support just sends canned replies and never",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-07T07:14:27",
+    "requester_id": "CUST-67619",
+    "region": "Chennai",
+    "labels": [
+      "customer_support"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-07T07:14:27",
+        "body": "Chat support just sends canned replies and never resolves anything."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-07T09:03:27",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001328",
+    "subject": "Paid for groceries, app crashed, got charged twi",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-07T16:32:21",
+    "requester_id": "CUST-96324",
+    "region": "Jaipur",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-07T16:32:21",
+        "body": "Paid for groceries, app crashed, got charged twice. This started after the update."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-07T20:27:21",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001223",
+    "subject": "Metal card feels premium and works everywhere",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-01T17:43:27",
+    "requester_id": "CUST-35957",
+    "region": "Bengaluru",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-01T17:43:27",
+        "body": "Metal card feels premium and works everywhere."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-01T19:48:27",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000846",
+    "subject": "Add Apple Watch support for quick balance checks",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-04T14:38:40",
+    "requester_id": "",
+    "region": "Indore",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-04T14:38:40",
+        "body": "Add Apple Watch support for quick balance checks."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-04T15:35:40",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000979",
+    "subject": "Payment failed but the amount got debited",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-27T09:11:22",
+    "requester_id": "",
+    "region": "Ahmedabad",
+    "labels": [
+      "payments_transactions"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-27T09:11:22",
+        "body": "Payment failed but the amount got debited. No refund even after 20 days."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-27T13:57:22",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001209",
+    "subject": "3 din se ticket raise kiya hai, koi reply nahi a",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-12T19:04:54",
+    "requester_id": "CUST-69259",
+    "region": "Kolkata",
+    "labels": [
+      "customer_support"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-12T19:04:54",
+        "body": "3 din se ticket raise kiya hai, koi reply nahi aaya support se."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-12T22:29:54",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000824",
+    "subject": "Hidden forex markup on my international card spe",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-15T18:49:04",
+    "requester_id": "CUST-23282",
+    "region": "Kolkata",
+    "labels": [
+      "fees_pricing"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-15T18:49:04",
+        "body": "Hidden forex markup on my international card spend, not transparent."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-15T20:41:04",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001210",
+    "subject": "A spending analytics dashboard would be great",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-25T17:15:35",
+    "requester_id": "CUST-99302",
+    "region": "Bengaluru",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-25T17:15:35",
+        "body": "A spending analytics dashboard would be great."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-25T21:43:35",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000927",
+    "subject": "Can you integrate with Google Pay for tap to pay",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-16T23:34:12",
+    "requester_id": "CUST-28056",
+    "region": "Indore",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-16T23:34:12",
+        "body": "Can you integrate with Google Pay for tap to pay?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-17T04:24:12",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001219",
+    "subject": "Zero forex markup is a genuine reason I switched",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-25T17:38:04",
+    "requester_id": "CUST-30349",
+    "region": "Ahmedabad",
+    "labels": [
+      "fees_pricing"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-25T17:38:04",
+        "body": "Zero forex markup is a genuine reason I switched to Nova."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-25T18:57:04",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000839",
+    "subject": "When does monthly cashback usually get credited?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-16T08:50:59",
+    "requester_id": "CUST-26755",
+    "region": "Indore",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-16T08:50:59",
+        "body": "When does monthly cashback usually get credited?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-16T09:54:59",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000803",
+    "subject": "Metal card feels premium and works everywhere",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-30T02:23:28",
+    "requester_id": "",
+    "region": "Jaipur",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-30T02:23:28",
+        "body": "Metal card feels premium and works everywhere."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-30T04:25:28",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001004",
+    "subject": "केवाईसी कई दिनों से रिव्यू में अटकी है, खाता इस्",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-14T08:17:23",
+    "requester_id": "CUST-71693",
+    "region": "London",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-14T08:17:23",
+        "body": "केवाईसी कई दिनों से रिव्यू में अटकी है, खाता इस्तेमाल नहीं कर पा रहा।"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-14T08:30:23",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001233",
+    "subject": "Raised a ticket 5 days ago and still no response",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-29T07:16:44",
+    "requester_id": "",
+    "region": "Bengaluru",
+    "labels": [
+      "customer_support"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-29T07:16:44",
+        "body": "Raised a ticket 5 days ago and still no response from support."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-29T10:38:44",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000826",
+    "subject": "Video KYC agent never connected after three sche",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-06T06:12:56",
+    "requester_id": "CUST-67587",
+    "region": "Ahmedabad",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-06T06:12:56",
+        "body": "Video KYC agent never connected after three scheduled attempts."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-06T09:31:56",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000897",
+    "subject": "Document upload keeps failing at the last step d",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-02T21:52:52",
+    "requester_id": "CUST-96455",
+    "region": "Kolkata",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-02T21:52:52",
+        "body": "Document upload keeps failing at the last step during onboarding."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-02T22:12:52",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000947",
+    "subject": "The navigation is confusing, I can never find my",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-09T01:37:03",
+    "requester_id": "CUST-90264",
+    "region": "Jaipur",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-09T01:37:03",
+        "body": "The navigation is confusing, I can never find my statements."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-09T02:44:03",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001194",
+    "subject": "Clean interface, everything is where you expect ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-14T00:55:04",
+    "requester_id": "CUST-81732",
+    "region": "Jaipur",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-14T00:55:04",
+        "body": "Clean interface, everything is where you expect it to be."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-14T01:42:04",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001265",
+    "subject": "Does the app work on Android 11 still?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-05T18:47:11",
+    "requester_id": "CUST-24879",
+    "region": "Dubai",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-05T18:47:11",
+        "body": "Does the app work on Android 11 still?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-05T22:02:11",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001323",
+    "subject": "Cannot complete a single transaction after 4",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-02T03:54:29",
+    "requester_id": "CUST-14870",
+    "region": "Kochi",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-02T03:54:29",
+        "body": "Cannot complete a single transaction after 4.2.0, instant crash on pay."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-02T06:26:29",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001078",
+    "subject": "Freezes on the transaction history page and I ha",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-23T06:11:58",
+    "requester_id": "CUST-34400",
+    "region": "Bengaluru",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-23T06:11:58",
+        "body": "Freezes on the transaction history page and I have to restart."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-23T10:59:58",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001140",
+    "subject": "2FA codes arrive five minutes late so I keep get",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-07T13:42:09",
+    "requester_id": "",
+    "region": "Singapore",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-07T13:42:09",
+        "body": "2FA codes arrive five minutes late so I keep getting locked out."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-07T15:51:09",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001299",
+    "subject": "Cannot complete a single transaction after 4",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-11T02:36:21",
+    "requester_id": "CUST-14526",
+    "region": "Bengaluru",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-11T02:36:21",
+        "body": "Cannot complete a single transaction after 4.2.0, instant crash on pay."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-11T07:02:21",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001195",
+    "subject": "What documents do I need for full KYC?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-10T19:07:32",
+    "requester_id": "CUST-39828",
+    "region": "Pune",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-10T19:07:32",
+        "body": "What documents do I need for full KYC?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-10T21:33:32",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001254",
+    "subject": "KYC has been 'under review' for 19 days, still c",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-18T09:45:35",
+    "requester_id": "",
+    "region": "Bengaluru",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-18T09:45:35",
+        "body": "KYC has been 'under review' for 19 days, still cannot use my account."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-18T11:00:35",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000943",
+    "subject": "The rewards on groceries are actually worth it",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-17T10:17:42",
+    "requester_id": "CUST-11777",
+    "region": "Chennai",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-17T10:17:42",
+        "body": "The rewards on groceries are actually worth it."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-17T13:00:42",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001070",
+    "subject": "Please add support for recurring SIP investments",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-02T06:57:39",
+    "requester_id": "CUST-25238",
+    "region": "London",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-02T06:57:39",
+        "body": "Please add support for recurring SIP investments."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-02T09:43:39",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001180",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-31T00:41:24",
+    "requester_id": "CUST-82844",
+    "region": "Mumbai",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-31T00:41:24",
+        "body": "Cashback from last month still not credited to my account."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-31T00:47:24",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001041",
+    "subject": "Started charging for what used to be a free feat",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-14T03:08:54",
+    "requester_id": "CUST-36563",
+    "region": "Chennai",
+    "labels": [
+      "fees_pricing"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-14T03:08:54",
+        "body": "Started charging for what used to be a free feature."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-14T07:07:54",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001040",
+    "subject": "Scheduled payments just work, set and forget",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-10T10:56:25",
+    "requester_id": "CUST-87095",
+    "region": "London",
+    "labels": [
+      "payments_transactions"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-10T10:56:25",
+        "body": "Scheduled payments just work, set and forget."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-10T11:02:25",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000820",
+    "subject": "Virtual card was ready instantly, used it the sa",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-02T03:23:51",
+    "requester_id": "",
+    "region": "Ahmedabad",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-02T03:23:51",
+        "body": "Virtual card was ready instantly, used it the same minute."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-02T06:16:51",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000878",
+    "subject": "Video KYC agent never connected after three sche",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-11T12:08:28",
+    "requester_id": "",
+    "region": "Dubai",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-11T12:08:28",
+        "body": "Video KYC agent never connected after three scheduled attempts."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-11T12:51:28",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000997",
+    "subject": "A spending analytics dashboard would be great",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-11T23:02:22",
+    "requester_id": "CUST-42835",
+    "region": "Pune",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-11T23:02:22",
+        "body": "A spending analytics dashboard would be great."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-11T23:30:22",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001307",
+    "subject": "Payment screen force closes after update to 4",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-01T10:22:09",
+    "requester_id": "CUST-14719",
+    "region": "Mumbai",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-01T10:22:09",
+        "body": "Payment screen force closes after update to 4.2.0. Money stuck, super frustrated."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-01T13:46:09",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001227",
+    "subject": "Physical card has not arrived after 18 days of '",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-27T07:33:17",
+    "requester_id": "CUST-15861",
+    "region": "Pune",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-27T07:33:17",
+        "body": "Physical card has not arrived after 18 days of 'shipped'."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-27T08:25:17",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001142",
+    "subject": "My card was cloned and blocking it in-app did no",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-08T08:28:25",
+    "requester_id": "CUST-75921",
+    "region": "Singapore",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-08T08:28:25",
+        "body": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-08T11:54:25",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001064",
+    "subject": "The navigation is confusing, I can never find my",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-20T04:13:47",
+    "requester_id": "CUST-71709",
+    "region": "Dubai",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-20T04:13:47",
+        "body": "The navigation is confusing, I can never find my statements."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-20T05:02:47",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001284",
+    "subject": "App dies on the payment confirmation screen sinc",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-12T05:43:38",
+    "requester_id": "CUST-26794",
+    "region": "Indore",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-12T05:43:38",
+        "body": "App dies on the payment confirmation screen since the latest update. Android."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-12T08:12:38",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001030",
+    "subject": "Hidden forex markup on my international card spe",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-16T05:28:50",
+    "requester_id": "CUST-47653",
+    "region": "Hyderabad",
+    "labels": [
+      "fees_pricing"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-16T05:28:50",
+        "body": "Hidden forex markup on my international card spend, not transparent."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-16T10:10:50",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001297",
+    "subject": "New version bricked payments for me, crashes at ",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-06T01:41:37",
+    "requester_id": "CUST-12222",
+    "region": "Lucknow",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-06T01:41:37",
+        "body": "New version bricked payments for me, crashes at the confirm step every time."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-06T05:10:37",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001182",
+    "subject": "Add Apple Watch support for quick balance checks",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-31T03:52:27",
+    "requester_id": "",
+    "region": "Hyderabad",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-31T03:52:27",
+        "body": "Add Apple Watch support for quick balance checks."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-31T07:57:27",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000806",
+    "subject": "Cannot increase my card limit, the option is gre",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-28T09:47:23",
+    "requester_id": "CUST-78084",
+    "region": "Hyderabad",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-28T09:47:23",
+        "body": "Cannot increase my card limit, the option is greyed out."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-28T09:59:23",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001165",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-13T23:08:24",
+    "requester_id": "CUST-88447",
+    "region": "Mumbai",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-13T23:08:24",
+        "body": "Cashback from last month still not credited to my account."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-14T00:52:24",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001303",
+    "subject": "Payment screen force closes after update to 4",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-15T12:16:13",
+    "requester_id": "CUST-30848",
+    "region": "Dubai",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-15T12:16:13",
+        "body": "Payment screen force closes after update to 4.2.0. Money stuck, super frustrated."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-15T17:01:13",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000873",
+    "subject": "Physical card has not arrived after 9 days of 's",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-09T11:17:40",
+    "requester_id": "CUST-84727",
+    "region": "Chennai",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-09T11:17:40",
+        "body": "Physical card has not arrived after 9 days of 'shipped'."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-09T16:05:40",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001207",
+    "subject": "Signup rejected my valid PAN twice with no expla",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-26T21:26:24",
+    "requester_id": "CUST-55561",
+    "region": "Kochi",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-26T21:26:24",
+        "body": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-27T02:04:24",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001184",
+    "subject": "first!!!",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-24T01:55:17",
+    "requester_id": "CUST-71749",
+    "region": "Singapore",
+    "labels": [
+      "other"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-24T01:55:17",
+        "body": "first!!!"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-24T05:18:17",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001189",
+    "subject": "Font is tiny and there is no dark mode option",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-10T13:38:13",
+    "requester_id": "CUST-84136",
+    "region": "Jaipur",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-10T13:38:13",
+        "body": "Font is tiny and there is no dark mode option."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-10T18:13:13",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001293",
+    "subject": "Ever since the 4",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-18T14:21:25",
+    "requester_id": "",
+    "region": "Indore",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-18T14:21:25",
+        "body": "Ever since the 4.2.0 update the app crashes the moment I hit pay. Cannot send money at all."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-18T18:07:25",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001197",
+    "subject": "Zero forex markup is a genuine reason I switched",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-29T23:47:20",
+    "requester_id": "CUST-86263",
+    "region": "Mumbai",
+    "labels": [
+      "fees_pricing"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-29T23:47:20",
+        "body": "Zero forex markup is a genuine reason I switched to Nova."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-30T04:22:20",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001023",
+    "subject": "Saw an unauthorised transaction on my account th",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-24T07:00:29",
+    "requester_id": "CUST-25264",
+    "region": "Chennai",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-24T07:00:29",
+        "body": "Saw an unauthorised transaction on my account this morning."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-24T07:42:29",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001050",
+    "subject": "Font is tiny and there is no dark mode option",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-16T12:51:10",
+    "requester_id": "CUST-28548",
+    "region": "Lucknow",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-16T12:51:10",
+        "body": "Font is tiny and there is no dark mode option."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-16T16:05:10",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000962",
+    "subject": "When does monthly cashback usually get credited?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-06T22:48:40",
+    "requester_id": "",
+    "region": "Chennai",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-06T22:48:40",
+        "body": "When does monthly cashback usually get credited?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-07T01:58:40",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001358",
+    "subject": "New home screen layout is a big improvement, eve",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-11T08:29:49",
+    "requester_id": "CUST-21435",
+    "region": "Kolkata",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-11T08:29:49",
+        "body": "New home screen layout is a big improvement, everything feels intuitive now."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-11T13:25:49",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001263",
+    "subject": "🔥🔥🔥🔥",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-08T17:58:02",
+    "requester_id": "CUST-60907",
+    "region": "London",
+    "labels": [
+      "other"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-08T17:58:02",
+        "body": "🔥🔥🔥🔥"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-08T18:14:02",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001110",
+    "subject": "Can I have both a virtual and physical card?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-03T05:11:26",
+    "requester_id": "",
+    "region": "Kochi",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-03T05:11:26",
+        "body": "Can I have both a virtual and physical card?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-03T05:27:26",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001232",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-13T05:51:28",
+    "requester_id": "CUST-92121",
+    "region": "Chennai",
+    "labels": [
+      "ui_ux"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-13T05:51:28",
+        "body": "Where did the rewards tab move to?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-13T09:36:28",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001108",
+    "subject": "Add Apple Watch support for quick balance checks",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-08T14:09:52",
+    "requester_id": "",
+    "region": "Kochi",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-08T14:09:52",
+        "body": "Add Apple Watch support for quick balance checks."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-08T18:41:52",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001218",
+    "subject": "Signup rejected my valid PAN twice with no expla",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-03T02:22:29",
+    "requester_id": "CUST-80462",
+    "region": "Lucknow",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-03T02:22:29",
+        "body": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-03T02:34:29",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000966",
+    "subject": "Signup rejected my valid PAN twice with no expla",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-03T22:29:34",
+    "requester_id": "",
+    "region": "Mumbai",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-03T22:29:34",
+        "body": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-04T03:17:34",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000980",
+    "subject": "Raised a ticket 6 days ago and still no response",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-09T19:07:54",
+    "requester_id": "CUST-53202",
+    "region": "Hyderabad",
+    "labels": [
+      "customer_support"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-09T19:07:54",
+        "body": "Raised a ticket 6 days ago and still no response from support."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-09T22:20:54",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001390",
+    "subject": "money gone",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-03T06:18:50",
+    "requester_id": "CUST-91043",
+    "region": "Hyderabad",
+    "labels": [
+      "payments_transactions"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-03T06:18:50",
+        "body": "money gone"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-03T10:19:50",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000936",
+    "subject": "2FA codes arrive five minutes late so I keep get",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-14T08:52:34",
+    "requester_id": "CUST-66828",
+    "region": "Lucknow",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-14T08:52:34",
+        "body": "2FA codes arrive five minutes late so I keep getting locked out."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-14T13:18:34",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000976",
+    "subject": "How long does card delivery take to a metro city",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-27T12:25:42",
+    "requester_id": "CUST-19288",
+    "region": "Kolkata",
+    "labels": [
+      "card_issues"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-05-27T12:25:42",
+        "body": "How long does card delivery take to a metro city?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-05-27T16:25:42",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000809",
+    "subject": "KYC has been 'under review' for 10 days, still c",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-16T05:01:42",
+    "requester_id": "CUST-28775",
+    "region": "Kochi",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-16T05:01:42",
+        "body": "KYC has been 'under review' for 10 days, still cannot use my account."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-16T07:34:42",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001274",
+    "subject": "செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செ",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-09T07:46:52",
+    "requester_id": "",
+    "region": "Mumbai",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-09T07:46:52",
+        "body": "செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செய்யவும்."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-09T12:00:52",
+        "body": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000904",
+    "subject": "Video KYC agent never connected after three sche",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-09T04:37:38",
+    "requester_id": "CUST-23051",
+    "region": "Bengaluru",
+    "labels": [
+      "onboarding_kyc"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-09T04:37:38",
+        "body": "Video KYC agent never connected after three scheduled attempts."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-09T06:16:38",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000879",
+    "subject": "What are the support hours for phone assistance?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-12T10:28:24",
+    "requester_id": "CUST-75211",
+    "region": "Lucknow",
+    "labels": [
+      "customer_support"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-07-12T10:28:24",
+        "body": "What are the support hours for phone assistance?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-07-12T15:10:24",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000818",
+    "subject": "When does monthly cashback usually get credited?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-18T14:02:49",
+    "requester_id": "CUST-27881",
+    "region": "Kochi",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-03-18T14:02:49",
+        "body": "When does monthly cashback usually get credited?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-03-18T14:54:49",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001282",
+    "subject": "New version bricked payments for me, crashes at ",
+    "channel": "web",
+    "priority": "urgent",
+    "status": "open",
+    "opened_at": "2026-08-18T12:15:03",
+    "requester_id": "CUST-74779",
+    "region": "Hyderabad",
+    "labels": [
+      "app_performance"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-18T12:15:03",
+        "body": "New version bricked payments for me, crashes at the confirm step every time."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-18T16:03:03",
+        "body": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001096",
+    "subject": "Cashback credited instantly, better than my old ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-01T08:26:01",
+    "requester_id": "CUST-20031",
+    "region": "Lucknow",
+    "labels": [
+      "rewards_cashback"
+    ],
+    "sla_breached": true,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-01T08:26:01",
+        "body": "Cashback credited instantly, better than my old bank."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-01T09:54:01",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000953",
+    "subject": "Would love a joint account feature for couples",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-26T10:25:06",
+    "requester_id": "CUST-36151",
+    "region": "Bengaluru",
+    "labels": [
+      "feature_request"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-06-26T10:25:06",
+        "body": "Would love a joint account feature for couples."
+      },
+      {
+        "sender": "agent",
+        "at": "2026-06-26T14:34:06",
+        "body": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001264",
+    "subject": "What is the charge for an instant transfer?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-18T18:47:01",
+    "requester_id": "CUST-55382",
+    "region": "Indore",
+    "labels": [
+      "fees_pricing"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-04-18T18:47:01",
+        "body": "What is the charge for an instant transfer?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-04-18T19:30:01",
+        "body": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-001338",
+    "subject": "Got an SMS claiming to be Nova asking me to veri",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-16T17:11:51",
+    "requester_id": "CUST-76127",
+    "region": "London",
+    "labels": [
+      "security_fraud"
+    ],
+    "sla_breached": false,
+    "messages": [
+      {
+        "sender": "customer",
+        "at": "2026-08-16T17:11:51",
+        "body": "Got an SMS claiming to be Nova asking me to verify my KYC on a weird link. Is this you?"
+      },
+      {
+        "sender": "agent",
+        "at": "2026-08-16T19:31:51",
+        "body": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  }
+]

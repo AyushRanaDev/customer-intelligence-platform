@@ -1,0 +1,4127 @@
+[
+  {
+    "record_id": "NOVA-000526",
+    "subject": "Started charging for what used to be a free feat",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-08T01:55:11",
+    "customer_id": "CUST-19337",
+    "region": "Lucknow",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-08T01:55:11",
+        "text": "Started charging for what used to be a free feature."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-08T04:45:11",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000416",
+    "subject": "Font is tiny and there is no dark mode option",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-06T07:15:58",
+    "customer_id": "CUST-96413",
+    "region": "Indore",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-06T07:15:58",
+        "text": "Font is tiny and there is no dark mode option."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-06T08:01:58",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000006",
+    "subject": "Support sorted my refund in under an hour, reall",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-04T16:00:12",
+    "customer_id": "CUST-42087",
+    "region": "Kochi",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-04T16:00:12",
+        "text": "Support sorted my refund in under an hour, really helpful agent."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-04T17:42:12",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000240",
+    "subject": "The reward offer disappeared before it was suppo",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-23T08:53:14",
+    "customer_id": "CUST-12960",
+    "region": "Singapore",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-23T08:53:14",
+        "text": "The reward offer disappeared before it was supposed to expire."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-23T09:48:14",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000034",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-19T13:28:37",
+    "customer_id": "CUST-62227",
+    "region": "Mumbai",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-19T13:28:37",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-19T18:08:37",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000260",
+    "subject": "Is there a daily limit on UPI payments here?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-26T11:03:04",
+    "customer_id": "",
+    "region": "Indore",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-26T11:03:04",
+        "text": "Is there a daily limit on UPI payments here?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-26T11:37:04",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000114",
+    "subject": "White screen on launch after the update, tried r",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-30T08:52:19",
+    "customer_id": "CUST-85248",
+    "region": "Delhi",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-30T08:52:19",
+        "text": "White screen on launch after the update, tried reinstalling twice."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-30T09:10:19",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000579",
+    "subject": "Onboarding took five minutes, KYC approved same ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-04T12:06:17",
+    "customer_id": "CUST-37471",
+    "region": "Kochi",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-04T12:06:17",
+        "text": "Onboarding took five minutes, KYC approved same day. Impressive."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-04T15:11:17",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000696",
+    "subject": "A spending analytics dashboard would be great",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-13T05:02:44",
+    "customer_id": "CUST-73714",
+    "region": "Mumbai",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-13T05:02:44",
+        "text": "A spending analytics dashboard would be great."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-13T08:21:44",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000543",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-19T17:07:05",
+    "customer_id": "CUST-85751",
+    "region": "Kolkata",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-19T17:07:05",
+        "text": "Cashback from last month still not credited to my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-19T21:30:05",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000053",
+    "subject": "Saw an unauthorised transaction on my account th",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-10T06:16:41",
+    "customer_id": "CUST-16826",
+    "region": "Mumbai",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-10T06:16:41",
+        "text": "Saw an unauthorised transaction on my account this morning."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-10T08:50:41",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000503",
+    "subject": "Virtual card was ready instantly, used it the sa",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-31T09:01:52",
+    "customer_id": "CUST-32398",
+    "region": "Jaipur",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-31T09:01:52",
+        "text": "Virtual card was ready instantly, used it the same minute."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-31T10:27:52",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000509",
+    "subject": "Please add support for recurring SIP investments",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-03T04:21:16",
+    "customer_id": "CUST-58309",
+    "region": "Singapore",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-03T04:21:16",
+        "text": "Please add support for recurring SIP investments."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-03T09:05:16",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000113",
+    "subject": "How do I set up biometric login?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-24T21:50:11",
+    "customer_id": "CUST-23579",
+    "region": "Lucknow",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-24T21:50:11",
+        "text": "How do I set up biometric login?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-25T02:50:11",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000708",
+    "subject": "Support closed my ticket without solving the pro",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-09T04:32:09",
+    "customer_id": "",
+    "region": "Bengaluru",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-09T04:32:09",
+        "text": "Support closed my ticket without solving the problem."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-09T08:41:09",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000119",
+    "subject": "Add Apple Watch support for quick balance checks",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-17T19:37:53",
+    "customer_id": "CUST-55242",
+    "region": "Singapore",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-17T19:37:53",
+        "text": "Add Apple Watch support for quick balance checks."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-17T23:53:53",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000786",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-15T11:27:23",
+    "customer_id": "",
+    "region": "Pune",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-15T11:27:23",
+        "text": "Cashback from last month still not credited to my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-15T12:11:23",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000768",
+    "subject": "The reward offer disappeared before it was suppo",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-02T09:36:26",
+    "customer_id": "CUST-93380",
+    "region": "Pune",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-02T09:36:26",
+        "text": "The reward offer disappeared before it was supposed to expire."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-02T11:10:26",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000010",
+    "subject": "How long does an IMPS transfer usually take on N",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-27T14:45:12",
+    "customer_id": "CUST-88172",
+    "region": "Singapore",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-27T14:45:12",
+        "text": "How long does an IMPS transfer usually take on Nova?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-27T19:06:12",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000540",
+    "subject": "My card was cloned and blocking it in-app did no",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-01T22:52:16",
+    "customer_id": "CUST-82800",
+    "region": "Ahmedabad",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-01T22:52:16",
+        "text": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-01T23:18:16",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000601",
+    "subject": "Clean interface, everything is where you expect ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-17T01:21:00",
+    "customer_id": "CUST-31805",
+    "region": "Pune",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-17T01:21:00",
+        "text": "Clean interface, everything is where you expect it to be."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-17T04:40:00",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000143",
+    "subject": "The navigation is confusing, I can never find my",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-14T16:00:16",
+    "customer_id": "CUST-91633",
+    "region": "Hyderabad",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-14T16:00:16",
+        "text": "The navigation is confusing, I can never find my statements."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-14T16:25:16",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000542",
+    "subject": "Signup rejected my valid PAN twice with no expla",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-25T03:22:47",
+    "customer_id": "CUST-89223",
+    "region": "London",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-25T03:22:47",
+        "text": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-25T07:09:47",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000477",
+    "subject": "Support closed my ticket without solving the pro",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-29T12:06:23",
+    "customer_id": "CUST-76155",
+    "region": "Singapore",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-29T12:06:23",
+        "text": "Support closed my ticket without solving the problem."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-29T12:24:23",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000431",
+    "subject": "Zero forex markup is a genuine reason I switched",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-24T14:19:28",
+    "customer_id": "CUST-52655",
+    "region": "Kolkata",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-24T14:19:28",
+        "text": "Zero forex markup is a genuine reason I switched to Nova."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-24T14:49:28",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000434",
+    "subject": "My card was cloned and blocking it in-app did no",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-12T23:45:59",
+    "customer_id": "",
+    "region": "Ahmedabad",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-12T23:45:59",
+        "text": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-13T02:03:59",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000461",
+    "subject": "Physical card has not arrived after 2 days of 's",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-03T08:45:18",
+    "customer_id": "",
+    "region": "Lucknow",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-03T08:45:18",
+        "text": "Physical card has not arrived after 2 days of 'shipped'."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-03T12:03:18",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000531",
+    "subject": "Payment failed but the amount got debited",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-30T14:51:08",
+    "customer_id": "CUST-32387",
+    "region": "Ahmedabad",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-30T14:51:08",
+        "text": "Payment failed but the amount got debited. No refund even after 13 days."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-30T17:50:08",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000466",
+    "subject": "How do I set up biometric login?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-19T17:06:43",
+    "customer_id": "CUST-19225",
+    "region": "Chennai",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-19T17:06:43",
+        "text": "How do I set up biometric login?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-19T20:16:43",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000730",
+    "subject": "UPI transaction stuck on 'processing' forever, h",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-11T07:25:00",
+    "customer_id": "",
+    "region": "Mumbai",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-11T07:25:00",
+        "text": "UPI transaction stuck on 'processing' forever, had to force close."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-11T09:50:00",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000376",
+    "subject": "Video KYC agent never connected after three sche",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-05T07:45:40",
+    "customer_id": "CUST-91968",
+    "region": "Mumbai",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-05T07:45:40",
+        "text": "Video KYC agent never connected after three scheduled attempts."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-05T09:06:40",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000441",
+    "subject": "White screen on launch after the update, tried r",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-11T21:24:16",
+    "customer_id": "CUST-61097",
+    "region": "Delhi",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-11T21:24:16",
+        "text": "White screen on launch after the update, tried reinstalling twice."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-12T00:42:16",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000792",
+    "subject": "The reward offer disappeared before it was suppo",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-10T10:14:05",
+    "customer_id": "",
+    "region": "Hyderabad",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-10T10:14:05",
+        "text": "The reward offer disappeared before it was supposed to expire."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-10T11:21:05",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000779",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-16T01:40:19",
+    "customer_id": "CUST-39850",
+    "region": "Delhi",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-16T01:40:19",
+        "text": "Points I earned vanished after the update."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-16T05:16:19",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000552",
+    "subject": "Clean interface, everything is where you expect ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-05T17:56:38",
+    "customer_id": "CUST-72420",
+    "region": "Bengaluru",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-05T17:56:38",
+        "text": "Clean interface, everything is where you expect it to be."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-05T20:18:38",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000621",
+    "subject": "Clean interface, everything is where you expect ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-06T12:11:17",
+    "customer_id": "",
+    "region": "London",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-06T12:11:17",
+        "text": "Clean interface, everything is where you expect it to be."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-06T14:12:17",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000229",
+    "subject": "Freezes on the transaction history page and I ha",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-23T23:09:40",
+    "customer_id": "CUST-20082",
+    "region": "Chennai",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-23T23:09:40",
+        "text": "Freezes on the transaction history page and I have to restart."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-24T02:23:40",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000684",
+    "subject": "Does the app work on Android 11 still?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-13T18:22:00",
+    "customer_id": "",
+    "region": "Ahmedabad",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-13T18:22:00",
+        "text": "Does the app work on Android 11 still?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-13T21:34:00",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000471",
+    "subject": "How long does an IMPS transfer usually take on N",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-18T13:19:08",
+    "customer_id": "",
+    "region": "Bengaluru",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-18T13:19:08",
+        "text": "How long does an IMPS transfer usually take on Nova?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-18T14:51:08",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000796",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-07T22:09:01",
+    "customer_id": "CUST-63852",
+    "region": "Bengaluru",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-07T22:09:01",
+        "text": "Cashback from last month still not credited to my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-08T01:26:01",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000467",
+    "subject": "Runs great even on my old phone, no complaints o",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-09T15:30:32",
+    "customer_id": "CUST-42605",
+    "region": "Hyderabad",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-09T15:30:32",
+        "text": "Runs great even on my old phone, no complaints on speed."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-09T20:17:32",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000415",
+    "subject": "Can I customise the home screen widgets?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-14T12:48:00",
+    "customer_id": "CUST-83080",
+    "region": "Kolkata",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-14T12:48:00",
+        "text": "Can I customise the home screen widgets?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-14T16:53:00",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000719",
+    "subject": "So slow to load, spinning wheel for 30 seconds o",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-14T21:23:26",
+    "customer_id": "CUST-58404",
+    "region": "Hyderabad",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-14T21:23:26",
+        "text": "So slow to load, spinning wheel for 30 seconds on the home tab."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-15T00:56:26",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000464",
+    "subject": "Latest update drains my battery and heats up the",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-07T07:46:57",
+    "customer_id": "CUST-87371",
+    "region": "Jaipur",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-07T07:46:57",
+        "text": "Latest update drains my battery and heats up the phone."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-07T09:54:57",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000739",
+    "subject": "What is the charge for an instant transfer?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-08T19:08:52",
+    "customer_id": "CUST-45784",
+    "region": "Singapore",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-08T19:08:52",
+        "text": "What is the charge for an instant transfer?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-08T23:58:52",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000282",
+    "subject": "How long does an IMPS transfer usually take on N",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-16T12:55:21",
+    "customer_id": "CUST-40339",
+    "region": "Delhi",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-16T12:55:21",
+        "text": "How long does an IMPS transfer usually take on Nova?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-16T16:01:21",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000606",
+    "subject": "Bill payment shows success but the biller says t",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-23T05:51:23",
+    "customer_id": "CUST-90939",
+    "region": "Chennai",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-23T05:51:23",
+        "text": "Bill payment shows success but the biller says they never received it."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-23T10:25:23",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000078",
+    "subject": "Scheduled payments just work, set and forget",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-11T06:38:01",
+    "customer_id": "CUST-77952",
+    "region": "Kolkata",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-11T06:38:01",
+        "text": "Scheduled payments just work, set and forget."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-11T07:47:01",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000263",
+    "subject": "UPI transfers are instant and I have never had o",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-30T15:23:57",
+    "customer_id": "CUST-19283",
+    "region": "Indore",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-30T15:23:57",
+        "text": "UPI transfers are instant and I have never had one fail. Solid."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-30T15:59:57",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000572",
+    "subject": "Would love a joint account feature for couples",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-22T05:43:38",
+    "customer_id": "",
+    "region": "Pune",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-22T05:43:38",
+        "text": "Would love a joint account feature for couples."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-22T06:12:38",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000225",
+    "subject": "Account setup was the easiest I have seen, fully",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-05T06:50:53",
+    "customer_id": "CUST-42302",
+    "region": "Singapore",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-05T06:50:53",
+        "text": "Account setup was the easiest I have seen, fully digital."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-05T10:15:53",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000283",
+    "subject": "White screen on launch after the update, tried r",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-01T19:58:12",
+    "customer_id": "",
+    "region": "Kochi",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-01T19:58:12",
+        "text": "White screen on launch after the update, tried reinstalling twice."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-02T00:33:12",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000303",
+    "subject": "Zero forex markup is a genuine reason I switched",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-21T20:46:20",
+    "customer_id": "CUST-21629",
+    "region": "Pune",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-21T20:46:20",
+        "text": "Zero forex markup is a genuine reason I switched to Nova."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-22T01:35:20",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000682",
+    "subject": "Signup rejected my valid PAN twice with no expla",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-07T10:46:05",
+    "customer_id": "",
+    "region": "Mumbai",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-07T10:46:05",
+        "text": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-07T10:53:05",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000363",
+    "subject": "My card was cloned and blocking it in-app did no",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-02T01:12:30",
+    "customer_id": "CUST-61497",
+    "region": "Hyderabad",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-02T01:12:30",
+        "text": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-02T03:29:30",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000481",
+    "subject": "Raised a ticket 11 days ago and still no respons",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-12T20:33:46",
+    "customer_id": "",
+    "region": "Bengaluru",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-12T20:33:46",
+        "text": "Raised a ticket 11 days ago and still no response from support."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-13T01:18:46",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000706",
+    "subject": "Love how simple it is to check my balance at a g",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-07T21:07:02",
+    "customer_id": "CUST-53857",
+    "region": "Bengaluru",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-07T21:07:02",
+        "text": "Love how simple it is to check my balance at a glance."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-08T01:27:02",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000554",
+    "subject": "Is there an annual fee on the premium plan?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-16T07:45:00",
+    "customer_id": "CUST-56376",
+    "region": "London",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-16T07:45:00",
+        "text": "Is there an annual fee on the premium plan?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-16T12:14:00",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000736",
+    "subject": "Account setup was the easiest I have seen, fully",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-13T23:37:09",
+    "customer_id": "CUST-70902",
+    "region": "Ahmedabad",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-13T23:37:09",
+        "text": "Account setup was the easiest I have seen, fully digital."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-14T02:55:09",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000190",
+    "subject": "Support closed my ticket without solving the pro",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-16T07:09:16",
+    "customer_id": "CUST-53204",
+    "region": "Ahmedabad",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-16T07:09:16",
+        "text": "Support closed my ticket without solving the problem."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-16T11:44:16",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000699",
+    "subject": "Got transferred four times and had to repeat my ",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-05T15:57:20",
+    "customer_id": "",
+    "region": "Dubai",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-05T15:57:20",
+        "text": "Got transferred four times and had to repeat my issue each time."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-05T19:26:20",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000478",
+    "subject": "Signup rejected my valid PAN twice with no expla",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-22T01:24:18",
+    "customer_id": "CUST-62322",
+    "region": "Indore",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-22T01:24:18",
+        "text": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-22T03:33:18",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000605",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-30T21:22:47",
+    "customer_id": "",
+    "region": "Indore",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-30T21:22:47",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-30T22:00:47",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000300",
+    "subject": "Freezes on the transaction history page and I ha",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-09T14:50:03",
+    "customer_id": "CUST-67261",
+    "region": "Bengaluru",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-09T14:50:03",
+        "text": "Freezes on the transaction history page and I have to restart."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-09T18:19:03",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000151",
+    "subject": "Physical card has not arrived after 15 days of '",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-26T17:41:29",
+    "customer_id": "CUST-33652",
+    "region": "Delhi",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-26T17:41:29",
+        "text": "Physical card has not arrived after 15 days of 'shipped'."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-26T20:17:29",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000754",
+    "subject": "Cashback credited instantly, better than my old ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-17T05:00:03",
+    "customer_id": "",
+    "region": "Kochi",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-17T05:00:03",
+        "text": "Cashback credited instantly, better than my old bank."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-17T09:32:03",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000527",
+    "subject": "KYC has been 'under review' for 5 days, still ca",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-30T06:47:42",
+    "customer_id": "CUST-65897",
+    "region": "Kolkata",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-30T06:47:42",
+        "text": "KYC has been 'under review' for 5 days, still cannot use my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-30T09:29:42",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000320",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-12T15:44:28",
+    "customer_id": "CUST-50756",
+    "region": "Dubai",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-12T15:44:28",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-12T18:21:28",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000345",
+    "subject": "KYC has been 'under review' for 11 days, still c",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-04T07:38:33",
+    "customer_id": "CUST-96832",
+    "region": "Kolkata",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-04T07:38:33",
+        "text": "KYC has been 'under review' for 11 days, still cannot use my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-04T07:53:33",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000635",
+    "subject": "Started charging for what used to be a free feat",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-14T16:23:47",
+    "customer_id": "CUST-96649",
+    "region": "Delhi",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-14T16:23:47",
+        "text": "Started charging for what used to be a free feature."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-14T20:02:47",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000609",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-06T10:09:11",
+    "customer_id": "",
+    "region": "Indore",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-06T10:09:11",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-06T13:22:11",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000102",
+    "subject": "Too many taps to do a simple transfer now",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-25T14:02:50",
+    "customer_id": "CUST-40947",
+    "region": "Ahmedabad",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-25T14:02:50",
+        "text": "Too many taps to do a simple transfer now."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-25T17:47:50",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000619",
+    "subject": "செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செ",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-30T10:15:52",
+    "customer_id": "CUST-31368",
+    "region": "Kolkata",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-30T10:15:52",
+        "text": "செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செய்யவும்."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-30T11:13:52",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000454",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-08T09:27:31",
+    "customer_id": "",
+    "region": "Indore",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-08T09:27:31",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-08T11:40:31",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000148",
+    "subject": "Cashback credited instantly, better than my old ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-13T06:30:10",
+    "customer_id": "CUST-69988",
+    "region": "Indore",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-13T06:30:10",
+        "text": "Cashback credited instantly, better than my old bank."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-13T10:31:10",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000459",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-02T08:24:33",
+    "customer_id": "CUST-81253",
+    "region": "Hyderabad",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-02T08:24:33",
+        "text": "Points I earned vanished after the update."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-02T11:48:33",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000756",
+    "subject": "Raised a ticket 3 days ago and still no response",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-04T02:40:48",
+    "customer_id": "CUST-67127",
+    "region": "Bengaluru",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-04T02:40:48",
+        "text": "Raised a ticket 3 days ago and still no response from support."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-04T06:04:48",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000177",
+    "subject": "Metal card feels premium and works everywhere",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-13T00:03:50",
+    "customer_id": "CUST-14138",
+    "region": "Dubai",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-13T00:03:50",
+        "text": "Metal card feels premium and works everywhere."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-13T03:09:50",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000556",
+    "subject": "KYC has been 'under review' for 2 days, still ca",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-11T19:38:42",
+    "customer_id": "CUST-63903",
+    "region": "Dubai",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-11T19:38:42",
+        "text": "KYC has been 'under review' for 2 days, still cannot use my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-11T22:11:42",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000451",
+    "subject": "செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செ",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-09T20:42:08",
+    "customer_id": "CUST-14159",
+    "region": "Pune",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-09T20:42:08",
+        "text": "செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செய்யவும்."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-09T22:22:08",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000130",
+    "subject": "Sent money to the wrong contact and there is no ",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-14T00:23:00",
+    "customer_id": "CUST-15130",
+    "region": "Jaipur",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-14T00:23:00",
+        "text": "Sent money to the wrong contact and there is no way to raise a dispute in the app."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-14T02:25:00",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000720",
+    "subject": "Does Nova support virtual cards for online shopp",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-11T04:46:53",
+    "customer_id": "CUST-74165",
+    "region": "Ahmedabad",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-11T04:46:53",
+        "text": "Does Nova support virtual cards for online shopping?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-11T07:45:53",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000097",
+    "subject": "Love how simple it is to check my balance at a g",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-20T22:08:57",
+    "customer_id": "",
+    "region": "Ahmedabad",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-20T22:08:57",
+        "text": "Love how simple it is to check my balance at a glance."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-20T23:48:57",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000048",
+    "subject": "Onboarding took five minutes, KYC approved same ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-29T17:08:57",
+    "customer_id": "CUST-71069",
+    "region": "Kolkata",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-29T17:08:57",
+        "text": "Onboarding took five minutes, KYC approved same day. Impressive."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-29T18:51:57",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000593",
+    "subject": "The rewards on groceries are actually worth it",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-13T00:54:01",
+    "customer_id": "CUST-18782",
+    "region": "Bengaluru",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-13T00:54:01",
+        "text": "The rewards on groceries are actually worth it."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-13T01:42:01",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000234",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-01T09:08:09",
+    "customer_id": "CUST-93012",
+    "region": "Kochi",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-01T09:08:09",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-01T12:26:09",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000604",
+    "subject": "The rewards on groceries are actually worth it",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-06T00:11:23",
+    "customer_id": "CUST-81584",
+    "region": "Bengaluru",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-06T00:11:23",
+        "text": "The rewards on groceries are actually worth it."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-06T03:46:23",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000358",
+    "subject": "Support closed my ticket without solving the pro",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-04T20:35:53",
+    "customer_id": "CUST-75333",
+    "region": "Ahmedabad",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-04T20:35:53",
+        "text": "Support closed my ticket without solving the problem."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-04T23:08:53",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000347",
+    "subject": "Support closed my ticket without solving the pro",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-17T13:23:29",
+    "customer_id": "CUST-75058",
+    "region": "Bengaluru",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-17T13:23:29",
+        "text": "Support closed my ticket without solving the problem."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-17T18:22:29",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000666",
+    "subject": "A spending analytics dashboard would be great",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-19T08:05:42",
+    "customer_id": "",
+    "region": "Singapore",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-19T08:05:42",
+        "text": "A spending analytics dashboard would be great."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-19T12:28:42",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000127",
+    "subject": "Can you integrate with Google Pay for tap to pay",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-12T05:07:24",
+    "customer_id": "CUST-91857",
+    "region": "Kochi",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-12T05:07:24",
+        "text": "Can you integrate with Google Pay for tap to pay?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-12T07:07:24",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000626",
+    "subject": "A spending analytics dashboard would be great",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-31T08:22:01",
+    "customer_id": "",
+    "region": "Delhi",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-31T08:22:01",
+        "text": "A spending analytics dashboard would be great."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-31T11:35:01",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000444",
+    "subject": "My card gets declined at petrol pumps every sing",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-29T18:14:53",
+    "customer_id": "CUST-21738",
+    "region": "Jaipur",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-29T18:14:53",
+        "text": "My card gets declined at petrol pumps every single time."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-29T23:03:53",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000353",
+    "subject": "Would love a joint account feature for couples",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-04T11:03:58",
+    "customer_id": "CUST-90131",
+    "region": "Kolkata",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-04T11:03:58",
+        "text": "Would love a joint account feature for couples."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-04T15:33:58",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000179",
+    "subject": "Cannot increase my card limit, the option is gre",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-30T22:41:08",
+    "customer_id": "CUST-32699",
+    "region": "Jaipur",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-30T22:41:08",
+        "text": "Cannot increase my card limit, the option is greyed out."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-01T01:07:08",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000395",
+    "subject": "The navigation is confusing, I can never find my",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-24T00:10:27",
+    "customer_id": "CUST-46780",
+    "region": "Kochi",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-24T00:10:27",
+        "text": "The navigation is confusing, I can never find my statements."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-24T01:23:27",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000131",
+    "subject": "Add Apple Watch support for quick balance checks",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-17T20:39:20",
+    "customer_id": "CUST-54350",
+    "region": "Kolkata",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-17T20:39:20",
+        "text": "Add Apple Watch support for quick balance checks."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-17T21:15:20",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000084",
+    "subject": "Is there an annual fee on the premium plan?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-03T16:06:36",
+    "customer_id": "CUST-63841",
+    "region": "Kolkata",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-03T16:06:36",
+        "text": "Is there an annual fee on the premium plan?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-03T16:30:36",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000544",
+    "subject": "Does Nova support virtual cards for online shopp",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-13T03:34:33",
+    "customer_id": "CUST-58310",
+    "region": "Mumbai",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-13T03:34:33",
+        "text": "Does Nova support virtual cards for online shopping?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-13T04:08:33",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000703",
+    "subject": "A spending analytics dashboard would be great",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-15T01:41:58",
+    "customer_id": "CUST-54606",
+    "region": "Ahmedabad",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-15T01:41:58",
+        "text": "A spending analytics dashboard would be great."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-15T03:48:58",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000252",
+    "subject": "Is there an annual fee on the premium plan?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-19T06:13:43",
+    "customer_id": "",
+    "region": "Dubai",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-19T06:13:43",
+        "text": "Is there an annual fee on the premium plan?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-19T08:08:43",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000726",
+    "subject": "Is there a way to escalate a ticket?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-24T00:16:23",
+    "customer_id": "",
+    "region": "Mumbai",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-24T00:16:23",
+        "text": "Is there a way to escalate a ticket?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-24T03:22:23",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000442",
+    "subject": "Document upload keeps failing at the last step d",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-06T06:58:33",
+    "customer_id": "CUST-52624",
+    "region": "Mumbai",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-06T06:58:33",
+        "text": "Document upload keeps failing at the last step during onboarding."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-06T11:32:33",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000003",
+    "subject": "Too many taps to do a simple transfer now",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-31T04:44:46",
+    "customer_id": "CUST-57052",
+    "region": "Delhi",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-31T04:44:46",
+        "text": "Too many taps to do a simple transfer now."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-31T07:30:46",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000608",
+    "subject": "Raised a ticket 13 days ago and still no respons",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-19T01:18:13",
+    "customer_id": "CUST-66051",
+    "region": "Kolkata",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-19T01:18:13",
+        "text": "Raised a ticket 13 days ago and still no response from support."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-19T04:45:13",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000691",
+    "subject": "Every second transfer fails and then succeeds on",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-07T09:14:02",
+    "customer_id": "CUST-96208",
+    "region": "Indore",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-07T09:14:02",
+        "text": "Every second transfer fails and then succeeds on retry, so annoying."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-07T10:31:02",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000037",
+    "subject": "Please add support for recurring SIP investments",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-29T07:03:27",
+    "customer_id": "CUST-80575",
+    "region": "Mumbai",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-29T07:03:27",
+        "text": "Please add support for recurring SIP investments."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-29T07:54:27",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000146",
+    "subject": "My card gets declined at petrol pumps every sing",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-31T18:04:18",
+    "customer_id": "CUST-58929",
+    "region": "Mumbai",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-31T18:04:18",
+        "text": "My card gets declined at petrol pumps every single time."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-31T22:01:18",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000233",
+    "subject": "A spending analytics dashboard would be great",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-14T09:36:49",
+    "customer_id": "CUST-13527",
+    "region": "Kochi",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-14T09:36:49",
+        "text": "A spending analytics dashboard would be great."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-14T13:39:49",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000637",
+    "subject": "Saw an unauthorised transaction on my account th",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-24T09:20:55",
+    "customer_id": "CUST-49720",
+    "region": "Bengaluru",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-24T09:20:55",
+        "text": "Saw an unauthorised transaction on my account this morning."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-24T14:03:55",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000780",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-07-31T20:46:05",
+    "customer_id": "CUST-98487",
+    "region": "Hyderabad",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-31T20:46:05",
+        "text": "Points I earned vanished after the update."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-31T22:32:05",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000800",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-07-30T17:14:27",
+    "customer_id": "CUST-84609",
+    "region": "Jaipur",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-30T17:14:27",
+        "text": "Cashback from last month still not credited to my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-30T18:05:27",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000043",
+    "subject": "Can you integrate with Google Pay for tap to pay",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-16T14:38:36",
+    "customer_id": "CUST-95990",
+    "region": "Kolkata",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-16T14:38:36",
+        "text": "Can you integrate with Google Pay for tap to pay?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-16T18:55:36",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000557",
+    "subject": "The navigation is confusing, I can never find my",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-27T12:56:03",
+    "customer_id": "CUST-87874",
+    "region": "Lucknow",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-27T12:56:03",
+        "text": "The navigation is confusing, I can never find my statements."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-27T14:09:03",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000698",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-01T09:04:51",
+    "customer_id": "CUST-12727",
+    "region": "Ahmedabad",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-01T09:04:51",
+        "text": "Points I earned vanished after the update."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-01T11:54:51",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000390",
+    "subject": "Video KYC agent never connected after three sche",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-20T21:23:44",
+    "customer_id": "CUST-84356",
+    "region": "Delhi",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-20T21:23:44",
+        "text": "Video KYC agent never connected after three scheduled attempts."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-20T21:48:44",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000313",
+    "subject": "Cannot increase my card limit, the option is gre",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-03-14T14:53:11",
+    "customer_id": "",
+    "region": "Lucknow",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-14T14:53:11",
+        "text": "Cannot increase my card limit, the option is greyed out."
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-14T15:15:11",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000217",
+    "subject": "KYC has been 'under review' for 18 days, still c",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-29T14:46:04",
+    "customer_id": "CUST-91235",
+    "region": "Bengaluru",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-29T14:46:04",
+        "text": "KYC has been 'under review' for 18 days, still cannot use my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-29T15:33:04",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000670",
+    "subject": "Please add support for recurring SIP investments",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-07T19:15:13",
+    "customer_id": "CUST-40781",
+    "region": "Mumbai",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-07T19:15:13",
+        "text": "Please add support for recurring SIP investments."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-07T23:38:13",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000745",
+    "subject": "Document upload keeps failing at the last step d",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-19T23:15:55",
+    "customer_id": "CUST-18526",
+    "region": "Lucknow",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-19T23:15:55",
+        "text": "Document upload keeps failing at the last step during onboarding."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-20T02:07:55",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000319",
+    "subject": "Can you integrate with Google Pay for tap to pay",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-02T07:18:33",
+    "customer_id": "",
+    "region": "Kolkata",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-02T07:18:33",
+        "text": "Can you integrate with Google Pay for tap to pay?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-02T08:11:33",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000242",
+    "subject": "Can you integrate with Google Pay for tap to pay",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-22T19:15:55",
+    "customer_id": "CUST-38153",
+    "region": "Kolkata",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-22T19:15:55",
+        "text": "Can you integrate with Google Pay for tap to pay?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-22T23:36:55",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000541",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-05-03T21:40:50",
+    "customer_id": "CUST-12058",
+    "region": "Mumbai",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-03T21:40:50",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-04T02:27:50",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000664",
+    "subject": "Signup rejected my valid PAN twice with no expla",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-06T18:00:43",
+    "customer_id": "CUST-13010",
+    "region": "Hyderabad",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-06T18:00:43",
+        "text": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-06T18:09:43",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000566",
+    "subject": "The rewards on groceries are actually worth it",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-25T17:40:30",
+    "customer_id": "CUST-60353",
+    "region": "Bengaluru",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-25T17:40:30",
+        "text": "The rewards on groceries are actually worth it."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-25T19:19:30",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000714",
+    "subject": "Physical card has not arrived after 18 days of '",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-30T04:39:30",
+    "customer_id": "CUST-54657",
+    "region": "Jaipur",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-30T04:39:30",
+        "text": "Physical card has not arrived after 18 days of 'shipped'."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-30T04:57:30",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000285",
+    "subject": "Chat support just sends canned replies and never",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-28T04:26:46",
+    "customer_id": "CUST-24283",
+    "region": "Singapore",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-28T04:26:46",
+        "text": "Chat support just sends canned replies and never resolves anything."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-28T05:25:46",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000138",
+    "subject": "Physical card has not arrived after 8 days of 's",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-20T17:06:13",
+    "customer_id": "CUST-42768",
+    "region": "Singapore",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-20T17:06:13",
+        "text": "Physical card has not arrived after 8 days of 'shipped'."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-20T20:43:13",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000244",
+    "subject": "Started charging for what used to be a free feat",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-27T07:09:02",
+    "customer_id": "CUST-56135",
+    "region": "Lucknow",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-27T07:09:02",
+        "text": "Started charging for what used to be a free feature."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-27T11:55:02",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000669",
+    "subject": "The reward offer disappeared before it was suppo",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-03T19:20:50",
+    "customer_id": "CUST-62108",
+    "region": "Dubai",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-03T19:20:50",
+        "text": "The reward offer disappeared before it was supposed to expire."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-03T23:53:50",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000141",
+    "subject": "Payment failed but the amount got debited",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-18T10:55:34",
+    "customer_id": "CUST-15020",
+    "region": "Singapore",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-18T10:55:34",
+        "text": "Payment failed but the amount got debited. No refund even after 12 days."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-18T13:05:34",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000062",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-13T17:59:09",
+    "customer_id": "CUST-41890",
+    "region": "Chennai",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-13T17:59:09",
+        "text": "Cashback from last month still not credited to my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-13T20:54:09",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000785",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-14T02:33:54",
+    "customer_id": "CUST-71438",
+    "region": "Lucknow",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-14T02:33:54",
+        "text": "Points I earned vanished after the update."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-14T06:52:54",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000773",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-05T03:11:55",
+    "customer_id": "CUST-74853",
+    "region": "Ahmedabad",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-05T03:11:55",
+        "text": "Points I earned vanished after the update."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-05T05:41:55",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000752",
+    "subject": "Snappy and smooth, one of the faster banking app",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-05T09:11:32",
+    "customer_id": "CUST-92075",
+    "region": "Mumbai",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-05T09:11:32",
+        "text": "Snappy and smooth, one of the faster banking apps I use."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-05T10:17:32",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000324",
+    "subject": "No hidden charges, what you see is what you pay",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-15T06:56:41",
+    "customer_id": "CUST-62028",
+    "region": "Dubai",
+    "tags": [
+      "fees_pricing"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-15T06:56:41",
+        "text": "No hidden charges, what you see is what you pay."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-15T07:02:41",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000642",
+    "subject": "Can I have both a virtual and physical card?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-22T21:07:10",
+    "customer_id": "CUST-12914",
+    "region": "Indore",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-22T21:07:10",
+        "text": "Can I have both a virtual and physical card?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-22T23:01:10",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000111",
+    "subject": "Freezes on the transaction history page and I ha",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-19T13:30:27",
+    "customer_id": "",
+    "region": "Pune",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-19T13:30:27",
+        "text": "Freezes on the transaction history page and I have to restart."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-19T16:43:27",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000741",
+    "subject": "My card was cloned and blocking it in-app did no",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-29T09:14:50",
+    "customer_id": "CUST-98029",
+    "region": "Jaipur",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-29T09:14:50",
+        "text": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-29T12:16:50",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000172",
+    "subject": "Font is tiny and there is no dark mode option",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-06T18:14:44",
+    "customer_id": "CUST-91689",
+    "region": "Singapore",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-06T18:14:44",
+        "text": "Font is tiny and there is no dark mode option."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-06T18:48:44",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000226",
+    "subject": "Account setup was the easiest I have seen, fully",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-18T09:27:47",
+    "customer_id": "CUST-50405",
+    "region": "Delhi",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-18T09:27:47",
+        "text": "Account setup was the easiest I have seen, fully digital."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-18T12:11:47",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000065",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-15T10:40:46",
+    "customer_id": "CUST-49618",
+    "region": "Hyderabad",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-15T10:40:46",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-15T11:21:46",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000387",
+    "subject": "Cannot increase my card limit, the option is gre",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-23T09:02:08",
+    "customer_id": "CUST-81529",
+    "region": "Singapore",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-23T09:02:08",
+        "text": "Cannot increase my card limit, the option is greyed out."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-23T13:36:08",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000049",
+    "subject": "Please add support for recurring SIP investments",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-22T07:13:01",
+    "customer_id": "CUST-56105",
+    "region": "Kolkata",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-22T07:13:01",
+        "text": "Please add support for recurring SIP investments."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-22T09:44:01",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000689",
+    "subject": "Freezes on the transaction history page and I ha",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-03T23:39:47",
+    "customer_id": "CUST-97852",
+    "region": "Lucknow",
+    "tags": [
+      "app_performance"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-03T23:39:47",
+        "text": "Freezes on the transaction history page and I have to restart."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-04T04:20:47",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000694",
+    "subject": "Cashback from last month still not credited to m",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-04-23T22:18:03",
+    "customer_id": "CUST-68361",
+    "region": "London",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-23T22:18:03",
+        "text": "Cashback from last month still not credited to my account."
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-24T00:18:03",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000166",
+    "subject": "Saw an unauthorised transaction on my account th",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-08-12T02:12:48",
+    "customer_id": "CUST-73471",
+    "region": "Bengaluru",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-12T02:12:48",
+        "text": "Saw an unauthorised transaction on my account this morning."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-12T05:40:48",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000144",
+    "subject": "Cannot increase my card limit, the option is gre",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-22T22:31:29",
+    "customer_id": "CUST-48177",
+    "region": "Hyderabad",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-22T22:31:29",
+        "text": "Cannot increase my card limit, the option is greyed out."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-23T02:40:29",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000562",
+    "subject": "Can you integrate with Google Pay for tap to pay",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-03T04:49:43",
+    "customer_id": "CUST-19229",
+    "region": "Delhi",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-03T04:49:43",
+        "text": "Can you integrate with Google Pay for tap to pay?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-03T05:07:43",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000140",
+    "subject": "Is there a way to escalate a ticket?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-03-29T03:06:35",
+    "customer_id": "CUST-75799",
+    "region": "Kolkata",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-03-29T03:06:35",
+        "text": "Is there a way to escalate a ticket?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-03-29T04:22:35",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000011",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-06-12T11:37:19",
+    "customer_id": "",
+    "region": "Kochi",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-12T11:37:19",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-12T13:21:19",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000712",
+    "subject": "Where did the rewards tab move to?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-26T01:49:09",
+    "customer_id": "CUST-81358",
+    "region": "Ahmedabad",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-26T01:49:09",
+        "text": "Where did the rewards tab move to?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-04-26T03:14:09",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000046",
+    "subject": "Account setup was the easiest I have seen, fully",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-03T17:26:17",
+    "customer_id": "CUST-93579",
+    "region": "Chennai",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-03T17:26:17",
+        "text": "Account setup was the easiest I have seen, fully digital."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-03T21:49:17",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000079",
+    "subject": "Bill payment shows success but the biller says t",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-27T02:55:27",
+    "customer_id": "CUST-73532",
+    "region": "London",
+    "tags": [
+      "payments_transactions"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-27T02:55:27",
+        "text": "Bill payment shows success but the biller says they never received it."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-27T03:37:27",
+        "text": "I'm sorry for the trouble. Could you share your registered number?"
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000378",
+    "subject": "My card gets declined at petrol pumps every sing",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-28T05:43:33",
+    "customer_id": "CUST-53500",
+    "region": "London",
+    "tags": [
+      "card_issues"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-28T05:43:33",
+        "text": "My card gets declined at petrol pumps every single time."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-28T09:39:33",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000069",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-31T04:00:44",
+    "customer_id": "CUST-17894",
+    "region": "Chennai",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-31T04:00:44",
+        "text": "Points I earned vanished after the update."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-31T06:56:44",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000246",
+    "subject": "My card was cloned and blocking it in-app did no",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-28T20:56:10",
+    "customer_id": "CUST-93296",
+    "region": "Kolkata",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-28T20:56:10",
+        "text": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-29T00:35:10",
+        "text": "Thanks for reaching out, I'm looking into this now."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000774",
+    "subject": "Points I earned vanished after the update",
+    "channel": "web",
+    "priority": "high",
+    "status": "open",
+    "opened_at": "2026-08-04T00:14:27",
+    "customer_id": "CUST-38773",
+    "region": "Kochi",
+    "tags": [
+      "rewards_cashback"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-04T00:14:27",
+        "text": "Points I earned vanished after the update."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-04T01:06:27",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000469",
+    "subject": "Signup rejected my valid PAN twice with no expla",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-06-04T18:27:38",
+    "customer_id": "CUST-52553",
+    "region": "London",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-06-04T18:27:38",
+        "text": "Signup rejected my valid PAN twice with no explanation."
+      },
+      {
+        "from": "agent",
+        "at": "2026-06-04T18:50:38",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000751",
+    "subject": "Is there a way to escalate a ticket?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-07-20T09:49:38",
+    "customer_id": "CUST-26361",
+    "region": "Kochi",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-20T09:49:38",
+        "text": "Is there a way to escalate a ticket?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-20T11:00:38",
+        "text": "Let me check your account and get back to you."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000180",
+    "subject": "Clean interface, everything is where you expect ",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-04-30T21:15:45",
+    "customer_id": "CUST-39473",
+    "region": "Chennai",
+    "tags": [
+      "ui_ux"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-04-30T21:15:45",
+        "text": "Clean interface, everything is where you expect it to be."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-01T01:54:45",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000356",
+    "subject": "My card was cloned and blocking it in-app did no",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-07-04T10:51:38",
+    "customer_id": "CUST-30568",
+    "region": "Mumbai",
+    "tags": [
+      "security_fraud"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-07-04T10:51:38",
+        "text": "My card was cloned and blocking it in-app did not work."
+      },
+      {
+        "from": "agent",
+        "at": "2026-07-04T11:17:38",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000295",
+    "subject": "Would love a joint account feature for couples",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-17T22:51:15",
+    "customer_id": "CUST-44934",
+    "region": "Hyderabad",
+    "tags": [
+      "feature_request"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-17T22:51:15",
+        "text": "Would love a joint account feature for couples."
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-17T23:06:15",
+        "text": "I've raised this to the concerned team, you'll hear back shortly."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000041",
+    "subject": "Chat support just sends canned replies and never",
+    "channel": "web",
+    "priority": "medium",
+    "status": "open",
+    "opened_at": "2026-05-21T11:49:56",
+    "customer_id": "CUST-92960",
+    "region": "Chennai",
+    "tags": [
+      "customer_support"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-05-21T11:49:56",
+        "text": "Chat support just sends canned replies and never resolves anything."
+      },
+      {
+        "from": "agent",
+        "at": "2026-05-21T13:55:56",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  },
+  {
+    "record_id": "NOVA-000590",
+    "subject": "Can I open an account without Aadhaar?",
+    "channel": "web",
+    "priority": "low",
+    "status": "open",
+    "opened_at": "2026-08-15T09:55:42",
+    "customer_id": "",
+    "region": "Singapore",
+    "tags": [
+      "onboarding_kyc"
+    ],
+    "messages": [
+      {
+        "from": "customer",
+        "at": "2026-08-15T09:55:42",
+        "text": "Can I open an account without Aadhaar?"
+      },
+      {
+        "from": "agent",
+        "at": "2026-08-15T13:22:42",
+        "text": "Apologies for the inconvenience, I've noted the details."
+      }
+    ]
+  }
+]

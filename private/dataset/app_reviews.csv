@@ -1,0 +1,50 @@
+record_id,marketplace,rating,title,feedback_body,device_os,build,review_date,country,resolved_flag
+NOVA-001239,App Store,1,"செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செ","செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செய்யவும்.",iOS,4.1.2,2026-04-04T06:44:22,Delhi,FALSE
+NOVA-001387,Play Store,1,"Hate the new redesign, please bring back the old","Hate the new redesign, please bring back the old layout. Everything moved.",Android,4.0.1,2026-07-22T15:26:04,Mumbai,FALSE
+NOVA-001028,App Store,1,"White screen on launch after the update, tried r","White screen on launch after the update, tried reinstalling twice.",iOS,4.0.1,2026-07-08T06:45:58,Kolkata,FALSE
+NOVA-000871,Play Store,2,Points I earned vanished after the update,Points I earned vanished after the update.,Android,4.0.4,2026-06-14T00:41:46,Mumbai,FALSE
+NOVA-001301,App Store,2,"New version bricked payments for me, crashes at ","New version bricked payments for me, crashes at the confirm step every time.",iOS,4.2.0,2026-08-02T04:10:12,Delhi,TRUE
+NOVA-000804,App Store,3,What are the support hours for phone assistance?,What are the support hours for phone assistance?,iOS,4.0.1,2026-07-15T02:33:10,Jaipur,FALSE
+NOVA-000988,App Store,1,"Cannot increase my card limit, the option is gre","Cannot increase my card limit, the option is greyed out.",iOS,4.1.2,2026-06-22T16:22:19,Indore,FALSE
+NOVA-001279,App Store,2,Started charging for what used to be a free feat,Started charging for what used to be a free feature.,iOS,4.1.3,2026-07-28T13:51:00,Bengaluru,TRUE
+NOVA-000856,App Store,2,2FA codes arrive five minutes late so I keep get,2FA codes arrive five minutes late so I keep getting locked out.,iOS,4.1.2,2026-08-04T14:51:25,Kochi,TRUE
+NOVA-001143,Play Store,4,"No hidden charges, what you see is what you pay","No hidden charges, what you see is what you pay.",Android,4.1.2,2026-03-22T07:45:25,Hyderabad,FALSE
+NOVA-000967,App Store,1,Physical card has not arrived after 7 days of 's,Physical card has not arrived after 7 days of 'shipped'.,iOS,4.1.0,2026-07-27T00:38:28,Kochi,FALSE
+NOVA-000808,App Store,3,Where did the rewards tab move to?,Where did the rewards tab move to?,iOS,4.1.3,2026-04-13T04:59:19,Pune,TRUE
+NOVA-000945,Play Store,1,Points I earned vanished after the update,Points I earned vanished after the update.,Android,4.0.4,2026-06-23T03:34:02,Indore,FALSE
+NOVA-001377,App Store,1,The July UI change buried the features I use dai,"The July UI change buried the features I use daily, worse than before.",iOS,4.2.0,2026-08-03T00:00:22,Pune,TRUE
+NOVA-001381,Play Store,1,New interface looks pretty but it takes twice as,New interface looks pretty but it takes twice as long to do anything now.,Android,4.0.4,2026-07-30T23:59:21,Hyderabad,FALSE
+NOVA-001136,App Store,1,Points I earned vanished after the update,Points I earned vanished after the update.,iOS,4.0.4,2026-06-25T10:26:24,Singapore,FALSE
+NOVA-001156,App Store,2,"The navigation is confusing, I can never find my","The navigation is confusing, I can never find my statements.",iOS,4.0.4,2026-04-07T06:15:36,London,TRUE
+NOVA-000985,App Store,3,Any plans for a lighter version of the app?,Any plans for a lighter version of the app?,iOS,4.1.0,2026-06-04T16:45:54,Kolkata,FALSE
+NOVA-000857,App Store,2,Font is tiny and there is no dark mode option,Font is tiny and there is no dark mode option.,iOS,4.2.0,2026-08-17T19:46:36,London,TRUE
+NOVA-000868,App Store,4,UPI transfers are instant and I have never had o,UPI transfers are instant and I have never had one fail. Solid.,iOS,4.0.1,2026-04-21T13:15:10,Kolkata,FALSE
+NOVA-001080,Play Store,4,"Support sorted my refund in under an hour, reall","Support sorted my refund in under an hour, really helpful agent.",Android,4.1.0,2026-05-10T18:26:57,Lucknow,TRUE
+NOVA-000889,Play Store,1,"KYC has been 'under review' for 10 days, still c","KYC has been 'under review' for 10 days, still cannot use my account.",Android,4.0.1,2026-06-27T05:33:47,Chennai,TRUE
+NOVA-000865,App Store,2,Document upload keeps failing at the last step d,Document upload keeps failing at the last step during onboarding.,iOS,4.1.2,2026-07-21T10:46:39,Pune,FALSE
+NOVA-000907,Play Store,1,Chat support just sends canned replies and never,Chat support just sends canned replies and never resolves anything.,Android,4.0.1,2026-07-13T00:14:30,Chennai,TRUE
+NOVA-001169,App Store,1,My card was cloned and blocking it in-app did no,My card was cloned and blocking it in-app did not work.,iOS,4.0.4,2026-03-18T04:23:09,Chennai,FALSE
+NOVA-001404,App Store,3,🙂,🙂,iOS,4.1.2,2026-06-20T19:33:51,Lucknow,FALSE
+NOVA-000923,Play Store,2,Update ke baad app baar baar crash ho raha hai p,Update ke baad app baar baar crash ho raha hai pay karte time.,Android,4.1.0,2026-06-20T16:44:07,Chennai,TRUE
+NOVA-001049,Play Store,1,My card was cloned and blocking it in-app did no,My card was cloned and blocking it in-app did not work.,Android,4.2.0,2026-08-14T15:45:59,Dubai,FALSE
+NOVA-000918,App Store,1,Hidden forex markup on my international card spe,"Hidden forex markup on my international card spend, not transparent.",iOS,4.1.0,2026-05-03T11:25:33,Indore,FALSE
+NOVA-000891,Play Store,2,My card was cloned and blocking it in-app did no,My card was cloned and blocking it in-app did not work.,Android,4.1.0,2026-04-23T06:07:15,London,TRUE
+NOVA-001010,Play Store,4,Zero forex markup is a genuine reason I switched,Zero forex markup is a genuine reason I switched to Nova.,Android,4.0.4,2026-06-06T12:45:47,Lucknow,TRUE
+NOVA-001289,Play Store,1,"Paid for groceries, app crashed, got charged twi","Paid for groceries, app crashed, got charged twice. This started after the update.",Android,4.2.0,2026-08-08T01:24:25,Lucknow,FALSE
+NOVA-001173,App Store,5,Love how simple it is to check my balance at a g,Love how simple it is to check my balance at a glance.,iOS,4.1.0,2026-06-04T01:59:09,Pune,FALSE
+NOVA-001033,Play Store,1,"पैसे कट गए लेकिन ट्रांज़ैक्शन फेल हो गया, रिफंड ","पैसे कट गए लेकिन ट्रांज़ैक्शन फेल हो गया, रिफंड नहीं आया।",Android,4.1.2,2026-07-12T00:53:31,Singapore,TRUE
+NOVA-001202,Play Store,3,,.,Android,4.1.2,2026-04-14T07:31:06,Kolkata,FALSE
+NOVA-001238,Play Store,1,Points I earned vanished after the update,Points I earned vanished after the update.,Android,4.1.2,2026-04-15T12:14:03,Bengaluru,TRUE
+NOVA-001075,App Store,2,My card was cloned and blocking it in-app did no,My card was cloned and blocking it in-app did not work.,iOS,4.1.0,2026-06-02T18:00:34,Indore,FALSE
+NOVA-001288,Play Store,2,"Paid for groceries, app crashed, got charged twi","Paid for groceries, app crashed, got charged twice. This started after the update.",Android,4.2.0,2026-08-11T21:26:24,London,TRUE
+NOVA-001020,App Store,2,Too many taps to do a simple transfer now,Too many taps to do a simple transfer now.,iOS,4.1.0,2026-05-01T17:29:51,London,FALSE
+NOVA-000833,App Store,3,Is there a way to escalate a ticket?,Is there a way to escalate a ticket?,iOS,4.0.1,2026-03-26T14:25:00,Dubai,TRUE
+NOVA-001310,App Store,1,App dies on the payment confirmation screen sinc,App dies on the payment confirmation screen since the latest update. Android.,iOS,4.2.0,2026-08-03T22:29:59,Pune,TRUE
+NOVA-001240,Play Store,1,Started charging for what used to be a free feat,Started charging for what used to be a free feature.,Android,4.1.3,2026-06-05T22:13:54,Jaipur,FALSE
+NOVA-000862,Play Store,2,My card was cloned and blocking it in-app did no,My card was cloned and blocking it in-app did not work.,Android,4.1.3,2026-06-22T05:44:36,Jaipur,FALSE
+NOVA-001115,Play Store,3,Would love a joint account feature for couples,Would love a joint account feature for couples.,Android,4.0.1,2026-05-27T09:51:59,Mumbai,TRUE
+NOVA-000922,App Store,3,Can you integrate with Google Pay for tap to pay,Can you integrate with Google Pay for tap to pay?,iOS,4.1.2,2026-03-07T22:45:19,Mumbai,FALSE
+NOVA-001386,Play Store,2,"Hate the new redesign, please bring back the old","Hate the new redesign, please bring back the old layout. Everything moved.",Android,4.1.2,2026-08-01T21:51:45,Lucknow,FALSE
+NOVA-001018,Play Store,1,"The navigation is confusing, I can never find my","The navigation is confusing, I can never find my statements.",Android,4.2.0,2026-08-10T02:18:17,Kolkata,FALSE
+NOVA-000965,Play Store,1,The reward offer disappeared before it was suppo,The reward offer disappeared before it was supposed to expire.,Android,4.0.1,2026-05-14T17:55:35,Kochi,FALSE
+NOVA-001054,Play Store,3,Is there a daily limit on UPI payments here?,Is there a daily limit on UPI payments here?,Android,4.1.3,2026-06-06T07:31:02,Indore,FALSE
