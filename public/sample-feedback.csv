@@ -1,0 +1,11 @@
+submitted_at,feedback,source,segment,product_area,rating
+2026-01-05,"The dashboard is much faster and the export button is easy to find.",In-app,Enterprise,Reporting,5
+2026-01-11,"Support took three days to answer our ticket and the reply did not solve the billing issue.",Email,SMB,Billing,2
+2026-02-03,"I love the new onboarding checklist, but permissions are still confusing for admins.",Survey,Enterprise,Admin,4
+2026-02-18,"The mobile view is broken on our team's Android devices.",In-app,Mid-market,Mobile,1
+2026-03-04,"Pricing feels expensive now that we need more seats.",Sales call,SMB,Pricing,2
+2026-03-22,"Search is fast and accurate. It saves our support team time every week.",Survey,Enterprise,Search,5
+2026-04-02,"Reports sometimes fail to load on Monday mornings.",In-app,Enterprise,Reporting,2
+2026-04-16,"The new chat handoff feature is excellent for urgent cases.",Email,Mid-market,Support,5
+2026-05-07,"We need clearer invoices and fewer billing surprises.",Sales call,SMB,Billing,2
+2026-05-28,"The product is good overall, but advanced filters are hard to understand.",Survey,Enterprise,Reporting,3
