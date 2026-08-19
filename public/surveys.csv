@@ -1,0 +1,129 @@
+record_id,survey_type,score,verbatim,submitted_at,plan,region
+NOVA-000722,csat,1,2FA codes arrive five minutes late so I keep getting locked out.,2026-08-11T06:44:43,free,Chennai
+NOVA-000424,nps,8,How do I redeem my reward points?,2026-07-18T23:36:36,premium,Singapore
+NOVA-000047,nps,6,Font is tiny and there is no dark mode option.,2026-05-30T22:52:51,premium,Hyderabad
+NOVA-000418,nps,8,Any plans for a lighter version of the app?,2026-05-08T17:51:57,free,Kolkata
+NOVA-000164,nps,8,A spending analytics dashboard would be great.,2026-06-20T01:27:40,premium,Pune
+NOVA-000704,csat,3,What documents do I need for full KYC?,2026-07-11T18:01:21,plus,London
+NOVA-000265,nps,2,Document upload keeps failing at the last step during onboarding.,2026-06-07T00:11:24,plus,London
+NOVA-000513,csat,3,Where did the rewards tab move to?,2026-04-03T14:23:09,premium,Mumbai
+NOVA-000535,nps,7,Can you integrate with Google Pay for tap to pay?,2026-05-11T13:09:36,free,Ahmedabad
+NOVA-000342,nps,5,Signup rejected my valid PAN twice with no explanation.,2026-05-16T05:32:17,free,Singapore
+NOVA-000104,nps,4,Sent money to the wrong contact and there is no way to raise a dispute in the app.,2026-04-09T00:12:38,free,Bengaluru
+NOVA-000161,nps,4,Started charging for what used to be a free feature.,2026-05-18T23:17:49,plus,Bengaluru
+NOVA-000071,nps,7,test test test,2026-05-19T01:25:51,premium,Mumbai
+NOVA-000393,csat,3,A spending analytics dashboard would be great.,2026-04-28T12:53:28,free,Singapore
+NOVA-000230,nps,7,Can you integrate with Google Pay for tap to pay?,2026-04-14T19:15:04,plus,Bengaluru
+NOVA-000458,nps,7,What is the charge for an instant transfer?,2026-04-26T14:05:38,premium,Mumbai
+NOVA-000380,nps,10,"Splitting bills with friends is smooth, love the request money feature.",2026-06-15T11:26:34,plus,London
+NOVA-000040,nps,4,"The navigation is confusing, I can never find my statements.",2026-08-03T01:06:43,premium,Chennai
+NOVA-000565,csat,1,"Hidden forex markup on my international card spend, not transparent.",2026-05-24T08:41:29,free,Mumbai
+NOVA-000216,csat,1,My card was cloned and blocking it in-app did not work.,2026-03-07T00:25:49,free,Jaipur
+NOVA-000648,csat,3,Can you integrate with Google Pay for tap to pay?,2026-04-18T09:19:03,free,Indore
+NOVA-000077,csat,3,How do I set up biometric login?,2026-05-26T14:43:51,free,Delhi
+NOVA-000598,csat,2,Font is tiny and there is no dark mode option.,2026-05-30T20:24:45,plus,London
+NOVA-000059,csat,4,Metal card feels premium and works everywhere.,2026-06-21T15:38:39,plus,Dubai
+NOVA-000254,csat,2,Video KYC agent never connected after three scheduled attempts.,2026-06-01T19:09:22,premium,Lucknow
+NOVA-000237,nps,7,Does Nova support virtual cards for online shopping?,2026-06-15T07:19:02,free,Delhi
+NOVA-000038,nps,2,Started charging for what used to be a free feature.,2026-07-07T00:32:33,premium,Lucknow
+NOVA-000725,csat,2,Signup rejected my valid PAN twice with no explanation.,2026-07-03T08:10:30,free,Kochi
+NOVA-000518,csat,2,Charged a convenience fee that was never disclosed upfront.,2026-05-30T21:58:02,free,Lucknow
+NOVA-000738,nps,5,Font is tiny and there is no dark mode option.,2026-07-06T13:23:08,plus,Dubai
+NOVA-000199,nps,0,My card gets declined at petrol pumps every single time.,2026-06-27T01:46:07,plus,Bengaluru
+NOVA-000350,csat,4,Instant card freeze feature saved me when I lost my wallet.,2026-05-03T21:23:07,premium,Mumbai
+NOVA-000482,csat,1,Cashback from last month still not credited to my account.,2026-07-17T05:52:24,free,Kochi
+NOVA-000055,csat,1,Got transferred four times and had to repeat my issue each time.,2026-06-24T20:15:29,free,Bengaluru
+NOVA-000275,nps,0,The reward offer disappeared before it was supposed to expire.,2026-08-15T04:24:14,free,Ahmedabad
+NOVA-000139,csat,5,"Snappy and smooth, one of the faster banking apps I use.",2026-07-29T05:26:22,plus,Delhi
+NOVA-000253,nps,8,Would love a joint account feature for couples.,2026-07-06T07:03:19,free,Bengaluru
+NOVA-000794,nps,6,Cashback from last month still not credited to my account.,2026-08-01T23:23:51,premium,Mumbai
+NOVA-000523,nps,8,.,2026-08-08T00:11:03,free,Dubai
+NOVA-000122,csat,2,Got transferred four times and had to repeat my issue each time.,2026-03-26T01:52:36,free,Kolkata
+NOVA-000485,csat,1,Physical card has not arrived after 3 days of 'shipped'.,2026-03-07T11:08:32,plus,Chennai
+NOVA-000120,nps,10,"Virtual card was ready instantly, used it the same minute.",2026-06-26T07:34:28,free,Kolkata
+NOVA-000695,nps,6,Support closed my ticket without solving the problem.,2026-07-26T19:41:57,premium,Pune
+NOVA-000589,csat,2,Freezes on the transaction history page and I have to restart.,2026-04-23T01:37:37,premium,Indore
+NOVA-000063,nps,6,Started charging for what used to be a free feature.,2026-05-05T08:53:25,plus,Pune
+NOVA-000643,nps,6,Points I earned vanished after the update.,2026-05-08T22:41:34,plus,Pune
+NOVA-000002,csat,1,My card gets declined at petrol pumps every single time.,2026-06-13T12:20:22,free,Chennai
+NOVA-000406,nps,10,"Onboarding took five minutes, KYC approved same day. Impressive.",2026-03-25T20:37:58,free,Bengaluru
+NOVA-000170,nps,5,"Every second transfer fails and then succeeds on retry, so annoying.",2026-04-13T19:37:04,premium,London
+NOVA-000267,nps,7,Please add support for recurring SIP investments.,2026-06-05T08:17:42,free,Hyderabad
+NOVA-000052,nps,7,What documents do I need for full KYC?,2026-03-08T22:16:31,plus,Chennai
+NOVA-000321,csat,1,Support closed my ticket without solving the problem.,2026-07-26T13:24:09,premium,Chennai
+NOVA-000624,nps,6,The reward offer disappeared before it was supposed to expire.,2026-06-23T05:16:07,free,Delhi
+NOVA-000133,csat,3,Can I open an account without Aadhaar?,2026-04-29T09:06:56,plus,Bengaluru
+NOVA-000410,nps,5,"KYC has been 'under review' for 19 days, still cannot use my account.",2026-07-21T05:30:18,plus,Jaipur
+NOVA-000585,csat,1,Support closed my ticket without solving the problem.,2026-06-09T11:59:08,plus,Lucknow
+NOVA-000088,csat,3,Where did the rewards tab move to?,2026-03-15T20:52:20,plus,Delhi
+NOVA-000697,nps,4,Cashback from last month still not credited to my account.,2026-06-15T02:32:56,premium,Mumbai
+NOVA-000411,csat,3,Is there a daily limit on UPI payments here?,2026-08-02T21:48:09,premium,Kolkata
+NOVA-000074,csat,5,"Love the real-time fraud alerts, caught a bad charge fast.",2026-05-16T22:02:37,premium,Delhi
+NOVA-000294,csat,1,Charged a convenience fee that was never disclosed upfront.,2026-05-01T04:08:44,plus,Pune
+NOVA-000652,csat,3,Any plans for a lighter version of the app?,2026-03-18T11:24:14,plus,Kochi
+NOVA-000558,csat,4,"Snappy and smooth, one of the faster banking apps I use.",2026-04-09T19:14:14,premium,Dubai
+NOVA-000388,csat,3,Is there an annual fee on the premium plan?,2026-03-28T13:54:45,free,Dubai
+NOVA-000463,csat,2,App crashes every time I open the payment screen. Unusable.,2026-04-27T13:43:24,free,Dubai
+NOVA-000717,nps,7,How long does card delivery take to a metro city?,2026-08-01T14:58:27,premium,Chennai
+NOVA-000414,nps,0,Charged a convenience fee that was never disclosed upfront.,2026-03-05T14:00:23,plus,Kolkata
+NOVA-000349,nps,7,How do I redeem my reward points?,2026-08-03T09:04:13,free,Ahmedabad
+NOVA-000362,nps,7,Follow for follow?,2026-05-03T00:55:13,premium,Chennai
+NOVA-000753,csat,3,Can I customise the home screen widgets?,2026-06-26T04:56:23,premium,Lucknow
+NOVA-000537,csat,1,Started charging for what used to be a free feature.,2026-04-06T05:55:40,plus,London
+NOVA-000528,csat,4,The rewards on groceries are actually worth it.,2026-06-12T12:33:40,premium,Dubai
+NOVA-000658,nps,7,Is there a way to escalate a ticket?,2026-06-27T11:55:16,plus,London
+NOVA-000192,nps,5,"The navigation is confusing, I can never find my statements.",2026-06-28T08:15:02,premium,Bengaluru
+NOVA-000372,nps,2,My card was cloned and blocking it in-app did not work.,2026-04-11T01:24:26,plus,Indore
+NOVA-000374,csat,3,A spending analytics dashboard would be great.,2026-06-30T18:03:51,plus,Singapore
+NOVA-000600,csat,2,My card gets declined at petrol pumps every single time.,2026-06-24T05:43:43,plus,Bengaluru
+NOVA-000501,nps,5,My card gets declined at petrol pumps every single time.,2026-04-03T13:50:17,premium,Ahmedabad
+NOVA-000132,nps,4,"White screen on launch after the update, tried reinstalling twice.",2026-07-14T23:09:46,premium,Chennai
+NOVA-000373,nps,0,"Cannot increase my card limit, the option is greyed out.",2026-07-14T18:39:56,free,Hyderabad
+NOVA-000284,nps,6,Video KYC agent never connected after three scheduled attempts.,2026-03-14T20:07:28,premium,London
+NOVA-000788,nps,4,Cashback from last month still not credited to my account.,2026-08-06T05:50:55,free,Chennai
+NOVA-000154,csat,1,Cashback from last month still not credited to my account.,2026-03-28T08:41:12,plus,Singapore
+NOVA-000389,csat,3,first!!!,2026-06-12T14:42:45,free,Chennai
+NOVA-000196,nps,10,Love how simple it is to check my balance at a glance.,2026-06-07T02:41:23,premium,Dubai
+NOVA-000789,nps,5,The reward offer disappeared before it was supposed to expire.,2026-08-08T20:53:57,premium,Pune
+NOVA-000489,nps,7,Is there a way to escalate a ticket?,2026-05-02T11:54:48,free,Kochi
+NOVA-000747,nps,8,🙂,2026-05-15T03:07:32,plus,Mumbai
+NOVA-000711,nps,7,Can I have both a virtual and physical card?,2026-03-14T02:05:21,plus,London
+NOVA-000408,csat,3,Would love a joint account feature for couples.,2026-07-21T21:01:33,premium,Kochi
+NOVA-000575,csat,5,Instant card freeze feature saved me when I lost my wallet.,2026-07-15T06:31:22,free,Delhi
+NOVA-000145,csat,3,👍👍👍,2026-05-02T15:33:15,plus,Kochi
+NOVA-000198,nps,5,2FA codes arrive five minutes late so I keep getting locked out.,2026-08-15T17:38:23,plus,Dubai
+NOVA-000728,nps,7,How long does an IMPS transfer usually take on Nova?,2026-08-11T20:14:19,free,Jaipur
+NOVA-000385,csat,2,"Cannot increase my card limit, the option is greyed out.",2026-03-07T05:06:15,free,Delhi
+NOVA-000250,csat,1,Freezes on the transaction history page and I have to restart.,2026-07-11T01:11:15,premium,Dubai
+NOVA-000014,csat,1,Latest update drains my battery and heats up the phone.,2026-04-13T20:11:39,free,Singapore
+NOVA-000516,csat,3,How long does an IMPS transfer usually take on Nova?,2026-07-04T01:46:02,plus,Dubai
+NOVA-000344,csat,4,"Scheduled payments just work, set and forget.",2026-06-17T01:28:45,plus,Mumbai
+NOVA-000341,csat,2,"KYC has been 'under review' for 11 days, still cannot use my account.",2026-05-07T19:28:31,premium,Chennai
+NOVA-000772,nps,2,Points I earned vanished after the update.,2026-08-14T03:39:33,free,Pune
+NOVA-000105,nps,2,Chat support just sends canned replies and never resolves anything.,2026-06-05T11:33:56,free,Mumbai
+NOVA-000219,nps,0,"Every second transfer fails and then succeeds on retry, so annoying.",2026-07-24T19:36:00,free,Jaipur
+NOVA-000238,csat,3,Add Apple Watch support for quick balance checks.,2026-05-30T12:47:33,premium,Ahmedabad
+NOVA-000331,csat,5,Zero forex markup is a genuine reason I switched to Nova.,2026-07-17T04:07:50,plus,Chennai
+NOVA-000525,nps,6,Too many taps to do a simple transfer now.,2026-07-12T04:52:39,premium,Mumbai
+NOVA-000432,nps,5,Got transferred four times and had to repeat my issue each time.,2026-04-17T00:06:48,plus,Bengaluru
+NOVA-000536,nps,10,"Scheduled payments just work, set and forget.",2026-03-27T17:06:44,premium,Ahmedabad
+NOVA-000036,csat,1,Font is tiny and there is no dark mode option.,2026-04-17T06:13:10,plus,Pune
+NOVA-000182,nps,8,Does Nova support virtual cards for online shopping?,2026-03-24T20:23:47,plus,Singapore
+NOVA-000103,nps,6,"Hidden forex markup on my international card spend, not transparent.",2026-06-27T13:39:46,plus,Delhi
+NOVA-000175,csat,2,Font is tiny and there is no dark mode option.,2026-05-09T09:23:34,plus,Jaipur
+NOVA-000483,csat,3,Can I open an account without Aadhaar?,2026-04-14T04:58:14,plus,Pune
+NOVA-000449,csat,3,A spending analytics dashboard would be great.,2026-04-22T00:38:53,free,Hyderabad
+NOVA-000673,csat,2,Video KYC agent never connected after three scheduled attempts.,2026-04-26T16:25:25,premium,Bengaluru
+NOVA-000039,nps,2,"Hidden forex markup on my international card spend, not transparent.",2026-05-28T13:43:04,plus,Bengaluru
+NOVA-000409,csat,2,Latest update drains my battery and heats up the phone.,2026-08-06T07:55:22,premium,Delhi
+NOVA-000692,csat,3,Can you integrate with Google Pay for tap to pay?,2026-05-25T03:27:54,free,Delhi
+NOVA-000213,nps,5,"Hidden forex markup on my international card spend, not transparent.",2026-05-27T06:11:00,free,Ahmedabad
+NOVA-000462,nps,8,How long does card delivery take to a metro city?,2026-07-03T12:05:10,free,Kochi
+NOVA-000334,csat,1,Got transferred four times and had to repeat my issue each time.,2026-08-02T12:09:05,plus,Singapore
+NOVA-000517,csat,1,The reward offer disappeared before it was supposed to expire.,2026-07-16T07:31:46,premium,London
+NOVA-000422,nps,7,Add Apple Watch support for quick balance checks.,2026-07-04T08:47:28,plus,Lucknow
+NOVA-000506,nps,5,The reward offer disappeared before it was supposed to expire.,2026-04-13T08:07:31,premium,Lucknow
+NOVA-000683,nps,0,Signup rejected my valid PAN twice with no explanation.,2026-05-10T23:27:41,plus,Indore
+NOVA-000551,csat,3,Can I open an account without Aadhaar?,2026-08-13T21:20:15,free,Hyderabad
+NOVA-000098,csat,3,Does Nova support virtual cards for online shopping?,2026-04-11T06:40:42,premium,Singapore
+NOVA-000633,csat,1,My card was cloned and blocking it in-app did not work.,2026-07-11T01:23:59,premium,Kolkata

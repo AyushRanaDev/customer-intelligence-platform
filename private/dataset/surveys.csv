@@ -1,0 +1,71 @@
+record_id,type,score,comment,submitted_at,plan,region,channel
+NOVA-001154,nps,9,Chat team was patient and actually fixed my issue first try.,2026-04-28T05:55:44,free,Bengaluru,email_link
+NOVA-001172,csat,3,When does monthly cashback usually get credited?,2026-04-27T13:27:01,plus,Kolkata,email_link
+NOVA-001117,nps,2,Auto-pay for my rent silently failed and I got a late fee.,2026-06-21T02:03:51,premium,Chennai,email_link
+NOVA-001027,csat,4,"Account setup was the easiest I have seen, fully digital.",2026-05-22T08:30:19,premium,Hyderabad,in_app
+NOVA-001373,nps,4,"The July UI change buried the features I use daily, worse than before.",2026-07-22T06:05:18,premium,London,email_link
+NOVA-001371,csat,2,New interface looks pretty but it takes twice as long to do anything now.,2026-07-26T20:22:46,free,London,in_app
+NOVA-001155,nps,9,"Scheduled payments just work, set and forget.",2026-03-21T07:48:52,free,Delhi,in_app
+NOVA-000944,nps,8,Add Apple Watch support for quick balance checks.,2026-04-29T10:38:06,plus,Indore,in_app
+NOVA-000863,nps,10,"Support sorted my refund in under an hour, really helpful agent.",2026-07-02T11:33:42,plus,Mumbai,email_link
+NOVA-001277,csat,1,"செயலி பணம் செலுத்தும் போது கிராஷ் ஆகிறது, சரி செய்யவும்.",2026-05-02T15:52:20,plus,Pune,in_app
+NOVA-000934,csat,2,Font is tiny and there is no dark mode option.,2026-03-07T03:52:57,premium,Ahmedabad,email_link
+NOVA-000896,nps,0,The reward offer disappeared before it was supposed to expire.,2026-03-25T07:58:23,plus,Dubai,email_link
+NOVA-001093,nps,6,"Every second transfer fails and then succeeds on retry, so annoying.",2026-05-16T10:28:06,premium,Pune,email_link
+NOVA-001355,nps,9,"Loving the refreshed UI after the July update, so much easier on the eyes.",2026-08-13T22:43:58,free,Hyderabad,in_app
+NOVA-001186,csat,4,"Cashback credited instantly, better than my old bank.",2026-05-21T18:01:53,premium,Delhi,in_app
+NOVA-001361,nps,10,"New home screen layout is a big improvement, everything feels intuitive now.",2026-08-01T12:05:24,premium,Bengaluru,in_app
+NOVA-000975,nps,0,"White screen on launch after the update, tried reinstalling twice.",2026-05-11T22:09:58,premium,Hyderabad,email_link
+NOVA-000924,nps,0,Auto-pay for my rent silently failed and I got a late fee.,2026-07-12T12:14:28,free,Ahmedabad,in_app
+NOVA-001109,csat,1,2FA codes arrive five minutes late so I keep getting locked out.,2026-04-26T18:16:09,free,Singapore,email_link
+NOVA-001198,csat,1,My card gets declined at petrol pumps every single time.,2026-06-30T00:19:13,free,Indore,in_app
+NOVA-001084,csat,5,"Love the real-time fraud alerts, caught a bad charge fast.",2026-05-01T06:52:41,free,Dubai,email_link
+NOVA-000858,csat,3,Can you integrate with Google Pay for tap to pay?,2026-04-03T06:58:09,premium,London,email_link
+NOVA-000825,csat,2,Signup rejected my valid PAN twice with no explanation.,2026-03-18T14:41:12,free,Bengaluru,in_app
+NOVA-000836,nps,4,Charged a convenience fee that was never disclosed upfront.,2026-04-15T18:07:28,plus,Kochi,in_app
+NOVA-001388,nps,4,crashes,2026-03-22T10:17:07,free,Bengaluru,email_link
+NOVA-001132,nps,8,A spending analytics dashboard would be great.,2026-03-21T03:41:58,premium,Lucknow,email_link
+NOVA-000811,nps,5,My card gets declined at petrol pumps every single time.,2026-04-18T18:08:41,plus,Pune,email_link
+NOVA-000894,nps,4,"UPI transaction stuck on 'processing' forever, had to force close.",2026-06-19T17:06:39,premium,Indore,in_app
+NOVA-001150,csat,4,"Snappy and smooth, one of the faster banking apps I use.",2026-05-26T00:46:55,premium,Singapore,in_app
+NOVA-001044,csat,5,"Runs great even on my old phone, no complaints on speed.",2026-05-18T11:38:52,free,Singapore,in_app
+NOVA-001396,csat,1,worst,2026-04-25T04:50:55,plus,Lucknow,in_app
+NOVA-000887,csat,1,Font is tiny and there is no dark mode option.,2026-06-30T08:38:11,plus,Ahmedabad,email_link
+NOVA-000921,nps,5,"The navigation is confusing, I can never find my statements.",2026-07-17T05:35:16,plus,Bengaluru,email_link
+NOVA-000816,csat,1,Too many taps to do a simple transfer now.,2026-05-02T20:20:01,free,Indore,email_link
+NOVA-001059,csat,2,Latest update drains my battery and heats up the phone.,2026-04-28T07:49:27,plus,Singapore,email_link
+NOVA-000915,csat,4,"Account setup was the easiest I have seen, fully digital.",2026-07-15T14:59:37,premium,London,email_link
+NOVA-001056,csat,2,My card was cloned and blocking it in-app did not work.,2026-03-25T15:52:15,premium,Chennai,in_app
+NOVA-001216,csat,1,Sent money to the wrong contact and there is no way to raise a dispute in the app.,2026-08-13T06:14:03,premium,Singapore,in_app
+NOVA-000969,nps,9,"Account setup was the easiest I have seen, fully digital.",2026-07-12T15:24:17,free,Lucknow,email_link
+NOVA-001105,csat,1,Points I earned vanished after the update.,2026-07-08T12:27:27,plus,Bengaluru,email_link
+NOVA-001203,csat,3,Can you integrate with Google Pay for tap to pay?,2026-07-24T19:45:07,plus,Indore,in_app
+NOVA-001378,nps,5,"The July UI change buried the features I use daily, worse than before.",2026-08-12T08:08:14,premium,Chennai,email_link
+NOVA-001146,nps,9,"Clean interface, everything is where you expect it to be.",2026-06-23T08:54:18,plus,Dubai,email_link
+NOVA-000931,csat,1,Started charging for what used to be a free feature.,2026-05-08T01:33:46,plus,Jaipur,in_app
+NOVA-001091,nps,9,"No hidden charges, what you see is what you pay.",2026-07-17T04:21:03,plus,Pune,email_link
+NOVA-001158,nps,0,Physical card has not arrived after 5 days of 'shipped'.,2026-05-28T12:01:40,premium,Ahmedabad,in_app
+NOVA-000807,nps,2,"Hidden forex markup on my international card spend, not transparent.",2026-05-18T02:55:06,premium,Jaipur,email_link
+NOVA-001116,csat,1,2FA codes arrive five minutes late so I keep getting locked out.,2026-05-30T16:42:09,premium,London,in_app
+NOVA-000874,nps,0,"Payment fail ho gaya par paise cut gaye, refund kab milega?",2026-08-17T02:32:37,free,Pune,email_link
+NOVA-001370,nps,2,"The July UI change buried the features I use daily, worse than before.",2026-07-19T17:51:32,free,Singapore,email_link
+NOVA-001407,csat,3,"So I have been using Nova for about eight months now and overall it has been fine but lately a few things pile up: the payment sometimes lags, cashback took ages last month, support was slow once but great another time, the card arrived late, however the interface is nice and forex is genuinely zero markup which I appreciate, mixed feelings honestly.",2026-05-30T06:13:42,plus,Hyderabad,in_app
+NOVA-001065,csat,3,How long does card delivery take to a metro city?,2026-05-25T17:53:29,premium,Mumbai,email_link
+NOVA-000912,nps,2,Video KYC agent never connected after three scheduled attempts.,2026-06-02T09:58:02,free,London,email_link
+NOVA-001060,nps,8,Would love a joint account feature for couples.,2026-05-31T01:38:46,premium,Indore,in_app
+NOVA-001400,nps,5,money gone,2026-04-27T11:37:35,premium,Lucknow,email_link
+NOVA-000813,nps,7,A spending analytics dashboard would be great.,2026-05-25T15:08:31,free,Lucknow,in_app
+NOVA-000993,nps,2,Too many taps to do a simple transfer now.,2026-06-23T05:49:13,plus,London,in_app
+NOVA-000989,nps,6,Font is tiny and there is no dark mode option.,2026-06-22T04:29:31,premium,Delhi,email_link
+NOVA-001385,nps,6,New interface looks pretty but it takes twice as long to do anything now.,2026-08-16T11:02:37,premium,Lucknow,in_app
+NOVA-001278,nps,10,"Account setup was the easiest I have seen, fully digital.",2026-08-02T10:07:44,plus,Mumbai,email_link
+NOVA-000801,csat,2,"ऐप बार-बार क्रैश हो रहा है पेमेंट करते समय, कृपया ठीक करें।",2026-06-08T15:15:47,free,Indore,email_link
+NOVA-001369,nps,9,"New home screen layout is a big improvement, everything feels intuitive now.",2026-08-15T15:22:30,free,London,in_app
+NOVA-000844,nps,8,Can I customise the home screen widgets?,2026-07-01T06:39:51,free,Jaipur,in_app
+NOVA-001383,nps,6,New interface looks pretty but it takes twice as long to do anything now.,2026-07-20T22:20:51,free,Pune,in_app
+NOVA-001042,nps,5,"The navigation is confusing, I can never find my statements.",2026-06-22T14:11:47,premium,Jaipur,email_link
+NOVA-000981,nps,8,Please add support for recurring SIP investments.,2026-03-14T20:18:30,premium,Delhi,email_link
+NOVA-001038,nps,6,My card gets declined at petrol pumps every single time.,2026-07-09T05:39:04,free,Bengaluru,email_link
+NOVA-001086,csat,3,What are the support hours for phone assistance?,2026-07-06T18:24:36,free,Pune,in_app
+NOVA-001057,nps,5,Document upload keeps failing at the last step during onboarding.,2026-06-24T16:22:46,premium,Delhi,email_link
+NOVA-000850,nps,0,Cashback from last month still not credited to my account.,2026-05-23T20:21:20,premium,Lucknow,in_app
